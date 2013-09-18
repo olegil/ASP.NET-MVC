@@ -6,7 +6,7 @@ using System.Web.Mvc;
 
 namespace UI.Helpers
 {
-    public class NotModifiedResult : ActionResult
+    public class NotModifiedResult : ViewResult
     {
         public override void ExecuteResult(ControllerContext context)
         {

@@ -82,3 +82,15 @@ D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\DALDatabase\bin\Debug\ru\EntityFramework
 D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\DALDatabase\obj\Debug\DALDatabase.csprojResolveAssemblyReference.cache
 D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\DALDatabase\obj\Debug\DALDatabase.dll
 D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\DALDatabase\obj\Debug\DALDatabase.pdb
+D:\Mikalai Sivokha\GitHub\ASP.NET-MVC\PhotoGallery\DALDatabase\bin\Debug\DALDatabase.dll
+D:\Mikalai Sivokha\GitHub\ASP.NET-MVC\PhotoGallery\DALDatabase\bin\Debug\DALDatabase.pdb
+D:\Mikalai Sivokha\GitHub\ASP.NET-MVC\PhotoGallery\DALDatabase\bin\Debug\DALEntities.dll
+D:\Mikalai Sivokha\GitHub\ASP.NET-MVC\PhotoGallery\DALDatabase\bin\Debug\DALInterface.dll
+D:\Mikalai Sivokha\GitHub\ASP.NET-MVC\PhotoGallery\DALDatabase\bin\Debug\EntityFramework.dll
+D:\Mikalai Sivokha\GitHub\ASP.NET-MVC\PhotoGallery\DALDatabase\bin\Debug\DALEntities.pdb
+D:\Mikalai Sivokha\GitHub\ASP.NET-MVC\PhotoGallery\DALDatabase\bin\Debug\DALInterface.pdb
+D:\Mikalai Sivokha\GitHub\ASP.NET-MVC\PhotoGallery\DALDatabase\bin\Debug\EntityFramework.xml
+D:\Mikalai Sivokha\GitHub\ASP.NET-MVC\PhotoGallery\DALDatabase\bin\Debug\ru\EntityFramework.resources.dll
+D:\Mikalai Sivokha\GitHub\ASP.NET-MVC\PhotoGallery\DALDatabase\obj\Debug\DALDatabase.csprojResolveAssemblyReference.cache
+D:\Mikalai Sivokha\GitHub\ASP.NET-MVC\PhotoGallery\DALDatabase\obj\Debug\DALDatabase.dll
+D:\Mikalai Sivokha\GitHub\ASP.NET-MVC\PhotoGallery\DALDatabase\obj\Debug\DALDatabase.pdb

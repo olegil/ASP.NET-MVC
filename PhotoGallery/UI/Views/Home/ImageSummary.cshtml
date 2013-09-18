@@ -1,4 +1,7 @@
-﻿@Html.ActionLink("Cart (" + ViewData["ImageCount"] + ")",
+﻿@{
+    Layout = null;
+}
+@Html.ActionLink("Cart (" + ViewData["ImageCount"] + ")",
     "Index",
     "ShoppingCart",
     new { id = "cart-status" })

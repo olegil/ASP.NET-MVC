@@ -68,3 +68,13 @@ D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\DALInterface\bin\Debug\ru\EntityFramewor
 D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\DALInterface\obj\Debug\DALInterface.csprojResolveAssemblyReference.cache
 D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\DALInterface\obj\Debug\DALInterface.dll
 D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\DALInterface\obj\Debug\DALInterface.pdb
+D:\Mikalai Sivokha\GitHub\ASP.NET-MVC\PhotoGallery\DALInterface\bin\Debug\DALInterface.dll
+D:\Mikalai Sivokha\GitHub\ASP.NET-MVC\PhotoGallery\DALInterface\bin\Debug\DALInterface.pdb
+D:\Mikalai Sivokha\GitHub\ASP.NET-MVC\PhotoGallery\DALInterface\bin\Debug\DALEntities.dll
+D:\Mikalai Sivokha\GitHub\ASP.NET-MVC\PhotoGallery\DALInterface\bin\Debug\EntityFramework.dll
+D:\Mikalai Sivokha\GitHub\ASP.NET-MVC\PhotoGallery\DALInterface\bin\Debug\DALEntities.pdb
+D:\Mikalai Sivokha\GitHub\ASP.NET-MVC\PhotoGallery\DALInterface\bin\Debug\EntityFramework.xml
+D:\Mikalai Sivokha\GitHub\ASP.NET-MVC\PhotoGallery\DALInterface\bin\Debug\ru\EntityFramework.resources.dll
+D:\Mikalai Sivokha\GitHub\ASP.NET-MVC\PhotoGallery\DALInterface\obj\Debug\DALInterface.csprojResolveAssemblyReference.cache
+D:\Mikalai Sivokha\GitHub\ASP.NET-MVC\PhotoGallery\DALInterface\obj\Debug\DALInterface.dll
+D:\Mikalai Sivokha\GitHub\ASP.NET-MVC\PhotoGallery\DALInterface\obj\Debug\DALInterface.pdb

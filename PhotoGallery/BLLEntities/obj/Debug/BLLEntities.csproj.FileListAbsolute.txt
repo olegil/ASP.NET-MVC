@@ -68,3 +68,13 @@ D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\BLLEntities\bin\Debug\ru
 D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\BLLEntities\obj\Debug\BLLEntities.csprojResolveAssemblyReference.cache
 D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\BLLEntities\obj\Debug\BLLEntities.dll
 D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\BLLEntities\obj\Debug\BLLEntities.pdb
+D:\Mikalai Sivokha\GitHub\ASP.NET-MVC\PhotoGallery\BLLEntities\bin\Debug\BLLEntities.dll
+D:\Mikalai Sivokha\GitHub\ASP.NET-MVC\PhotoGallery\BLLEntities\bin\Debug\BLLEntities.pdb
+D:\Mikalai Sivokha\GitHub\ASP.NET-MVC\PhotoGallery\BLLEntities\bin\Debug\DALEntities.dll
+D:\Mikalai Sivokha\GitHub\ASP.NET-MVC\PhotoGallery\BLLEntities\bin\Debug\EntityFramework.dll
+D:\Mikalai Sivokha\GitHub\ASP.NET-MVC\PhotoGallery\BLLEntities\bin\Debug\DALEntities.pdb
+D:\Mikalai Sivokha\GitHub\ASP.NET-MVC\PhotoGallery\BLLEntities\bin\Debug\EntityFramework.xml
+D:\Mikalai Sivokha\GitHub\ASP.NET-MVC\PhotoGallery\BLLEntities\bin\Debug\ru\EntityFramework.resources.dll
+D:\Mikalai Sivokha\GitHub\ASP.NET-MVC\PhotoGallery\BLLEntities\obj\Debug\BLLEntities.csprojResolveAssemblyReference.cache
+D:\Mikalai Sivokha\GitHub\ASP.NET-MVC\PhotoGallery\BLLEntities\obj\Debug\BLLEntities.dll
+D:\Mikalai Sivokha\GitHub\ASP.NET-MVC\PhotoGallery\BLLEntities\obj\Debug\BLLEntities.pdb

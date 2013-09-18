@@ -2,7 +2,7 @@
     addRolesToRoleNamesTextBox();
     submitRoles();
     closeForm('#workForm', 'addRole-form');
-    document.location.reload(true);
+    window.location.reload(true);
 };
 
 function clearAddRoleTextBox() {

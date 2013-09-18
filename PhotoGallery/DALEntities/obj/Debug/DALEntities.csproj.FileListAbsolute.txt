@@ -61,3 +61,12 @@ D:\Mikalai Sivokha\GitHub\ASP.NET-MVC\PhotoGallery\DALEntities\bin\Debug\ru\Enti
 D:\Mikalai Sivokha\GitHub\ASP.NET-MVC\PhotoGallery\DALEntities\obj\Debug\DALEntities.csprojResolveAssemblyReference.cache
 D:\Mikalai Sivokha\GitHub\ASP.NET-MVC\PhotoGallery\DALEntities\obj\Debug\DALEntities.dll
 D:\Mikalai Sivokha\GitHub\ASP.NET-MVC\PhotoGallery\DALEntities\obj\Debug\DALEntities.pdb
+D:\GitHub\ASP.NET-MVC\PhotoGallery\DALEntities\bin\Debug\DALEntities.dll.config
+D:\GitHub\ASP.NET-MVC\PhotoGallery\DALEntities\bin\Debug\DALEntities.dll
+D:\GitHub\ASP.NET-MVC\PhotoGallery\DALEntities\bin\Debug\DALEntities.pdb
+D:\GitHub\ASP.NET-MVC\PhotoGallery\DALEntities\bin\Debug\EntityFramework.dll
+D:\GitHub\ASP.NET-MVC\PhotoGallery\DALEntities\bin\Debug\EntityFramework.xml
+D:\GitHub\ASP.NET-MVC\PhotoGallery\DALEntities\bin\Debug\ru\EntityFramework.resources.dll
+D:\GitHub\ASP.NET-MVC\PhotoGallery\DALEntities\obj\Debug\DALEntities.csprojResolveAssemblyReference.cache
+D:\GitHub\ASP.NET-MVC\PhotoGallery\DALEntities\obj\Debug\DALEntities.dll
+D:\GitHub\ASP.NET-MVC\PhotoGallery\DALEntities\obj\Debug\DALEntities.pdb

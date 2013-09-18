@@ -58,3 +58,15 @@ D:\Mikalai Sivokha\GitHub\ASP.NET-MVC\PhotoGallery\BLLCommentService\bin\Debug\r
 D:\Mikalai Sivokha\GitHub\ASP.NET-MVC\PhotoGallery\BLLCommentService\obj\Debug\BLLHelpServices.csprojResolveAssemblyReference.cache
 D:\Mikalai Sivokha\GitHub\ASP.NET-MVC\PhotoGallery\BLLCommentService\obj\Debug\BLLCommentService.dll
 D:\Mikalai Sivokha\GitHub\ASP.NET-MVC\PhotoGallery\BLLCommentService\obj\Debug\BLLCommentService.pdb
+D:\GitHub\ASP.NET-MVC\PhotoGallery\BLLCommentService\bin\Debug\BLLCommentService.dll
+D:\GitHub\ASP.NET-MVC\PhotoGallery\BLLCommentService\bin\Debug\BLLCommentService.pdb
+D:\GitHub\ASP.NET-MVC\PhotoGallery\BLLCommentService\bin\Debug\BLLEntities.dll
+D:\GitHub\ASP.NET-MVC\PhotoGallery\BLLCommentService\bin\Debug\DALEntities.dll
+D:\GitHub\ASP.NET-MVC\PhotoGallery\BLLCommentService\bin\Debug\EntityFramework.dll
+D:\GitHub\ASP.NET-MVC\PhotoGallery\BLLCommentService\bin\Debug\BLLEntities.pdb
+D:\GitHub\ASP.NET-MVC\PhotoGallery\BLLCommentService\bin\Debug\DALEntities.pdb
+D:\GitHub\ASP.NET-MVC\PhotoGallery\BLLCommentService\bin\Debug\EntityFramework.xml
+D:\GitHub\ASP.NET-MVC\PhotoGallery\BLLCommentService\bin\Debug\ru\EntityFramework.resources.dll
+D:\GitHub\ASP.NET-MVC\PhotoGallery\BLLCommentService\obj\Debug\BLLHelpServices.csprojResolveAssemblyReference.cache
+D:\GitHub\ASP.NET-MVC\PhotoGallery\BLLCommentService\obj\Debug\BLLCommentService.dll
+D:\GitHub\ASP.NET-MVC\PhotoGallery\BLLCommentService\obj\Debug\BLLCommentService.pdb

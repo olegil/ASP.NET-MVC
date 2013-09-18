@@ -125,6 +125,7 @@
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ImageSearchController.cs" />
     <Compile Include="Controllers\ImageViewController.cs" />
+    <Compile Include="Controllers\MyImagesController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -230,7 +231,7 @@
     <Content Include="Views\ContentWork\ShowRemovePhotoForm.cshtml" />
     <Content Include="Views\Admin\ShowUsers.cshtml" />
     <Content Include="Views\Admin\ShowChangeUserRoleForm.cshtml" />
-    <Content Include="Views\Home\ImageSummary.cshtml" />
+    <Content Include="Views\Admin\UsersCount.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />

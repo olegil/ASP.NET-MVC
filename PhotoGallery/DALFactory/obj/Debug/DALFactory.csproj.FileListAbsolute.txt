@@ -110,3 +110,17 @@ D:\Mikalai Sivokha\GitHub\ASP.NET-MVC\PhotoGallery\DALFactory\bin\Debug\ru\Entit
 D:\Mikalai Sivokha\GitHub\ASP.NET-MVC\PhotoGallery\DALFactory\obj\Debug\DALFactory.csprojResolveAssemblyReference.cache
 D:\Mikalai Sivokha\GitHub\ASP.NET-MVC\PhotoGallery\DALFactory\obj\Debug\DALFactory.dll
 D:\Mikalai Sivokha\GitHub\ASP.NET-MVC\PhotoGallery\DALFactory\obj\Debug\DALFactory.pdb
+D:\GitHub\ASP.NET-MVC\PhotoGallery\DALFactory\bin\Debug\DALFactory.dll
+D:\GitHub\ASP.NET-MVC\PhotoGallery\DALFactory\bin\Debug\DALFactory.pdb
+D:\GitHub\ASP.NET-MVC\PhotoGallery\DALFactory\bin\Debug\DALDatabase.dll
+D:\GitHub\ASP.NET-MVC\PhotoGallery\DALFactory\bin\Debug\DALInterface.dll
+D:\GitHub\ASP.NET-MVC\PhotoGallery\DALFactory\bin\Debug\DALEntities.dll
+D:\GitHub\ASP.NET-MVC\PhotoGallery\DALFactory\bin\Debug\EntityFramework.dll
+D:\GitHub\ASP.NET-MVC\PhotoGallery\DALFactory\bin\Debug\DALDatabase.pdb
+D:\GitHub\ASP.NET-MVC\PhotoGallery\DALFactory\bin\Debug\DALInterface.pdb
+D:\GitHub\ASP.NET-MVC\PhotoGallery\DALFactory\bin\Debug\DALEntities.pdb
+D:\GitHub\ASP.NET-MVC\PhotoGallery\DALFactory\bin\Debug\EntityFramework.xml
+D:\GitHub\ASP.NET-MVC\PhotoGallery\DALFactory\bin\Debug\ru\EntityFramework.resources.dll
+D:\GitHub\ASP.NET-MVC\PhotoGallery\DALFactory\obj\Debug\DALFactory.csprojResolveAssemblyReference.cache
+D:\GitHub\ASP.NET-MVC\PhotoGallery\DALFactory\obj\Debug\DALFactory.dll
+D:\GitHub\ASP.NET-MVC\PhotoGallery\DALFactory\obj\Debug\DALFactory.pdb

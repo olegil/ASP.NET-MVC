@@ -7,6 +7,7 @@ using BLLEntities;
 using BLLServices;
 using UI.Models;
 using UI.SiteSettings;
+using UI.Helpers;
 
 namespace UI.Controllers
 {
@@ -50,6 +51,48 @@ namespace UI.Controllers
                 }
             }
             return Json(true);
+        }
+
+        [HttpGet]
+        public ActionResult UsersCount()
+        {
+            //Кеширование только на клиенте, обновление при каждом запросе
+            this.Response.Cache.SetCacheability(System.Web.HttpCacheability.Private);
+            this.Response.Cache.SetMaxAge(TimeSpan.Zero);
+
+            var cacheKey = "users-count-" + 1;
+            var cachedPair = (Tuple<DateTime, int>)this.HttpContext.Cache[cacheKey];
+
+            if (cachedPair != null) //Если данные есть в кеше на сервере
+            {
+                //Устанавливаем Last-Modified
+                this.Response.Cache.SetLastModified(cachedPair.Item1);
+
+                var lastModified = DateTime.MinValue;
+
+                //Обрабатываем Conditional Get
+                if (DateTime.TryParse(this.Request.Headers["If-Modified-Since"], out lastModified) && lastModified >= cachedPair.Item1)
+                {
+                    return new NotModifiedResult();
+                }
+
+                ViewData["UsersCount"] = cachedPair.Item2;
+            }
+            else //Если данных нет в кеше на сервере
+            {
+                //Текущее время, округленное до секунды
+                var now = DateTime.Now;
+                now = new DateTime(now.Year, now.Month, now.Day,
+                                    now.Hour, now.Minute, now.Second);
+
+                //Устанавливаем Last-Modified
+                this.Response.Cache.SetLastModified(now);
+
+                var count = 1;
+                this.HttpContext.Cache[cacheKey] = Tuple.Create(now, count);
+                ViewData["UsersCount"] = count;
+            }
+            return PartialView("UsersCount");
         }
     }
 }

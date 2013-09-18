@@ -60,6 +60,10 @@
     margin-right: 8%;
 }
 
+.users-count-container {
+    margin-left: 5%;
+}
+
 .roleName-container {
     display: inline-block;
     margin-right: 5px;

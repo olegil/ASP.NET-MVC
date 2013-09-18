@@ -267,4 +267,7 @@
   <data name="UserStatus" xml:space="preserve">
     <value>Статус пользователя:</value>
   </data>
+  <data name="MyPhotosPage" xml:space="preserve">
+    <value>Мои фотографии</value>
+  </data>
 </root>

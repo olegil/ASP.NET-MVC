@@ -3,6 +3,9 @@
     ViewBag.Title = "ShowUsers";
 }
 <div class="panel panel-padding panel-padding-height">
+    @*<div class="users-count-container">
+        <h3>Users count: @{Html.RenderAction("UsersCount", "Admin");}</h3>
+    </div>*@
     @foreach (var user in Model.Users)
     {             
         <div id="UserInformation" class="user-information-container">

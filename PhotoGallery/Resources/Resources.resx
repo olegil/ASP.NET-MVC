@@ -267,4 +267,7 @@
   <data name="UserStatus" xml:space="preserve">
     <value>User status:</value>
   </data>
+  <data name="MyPhotosPage" xml:space="preserve">
+    <value>My photos</value>
+  </data>
 </root>

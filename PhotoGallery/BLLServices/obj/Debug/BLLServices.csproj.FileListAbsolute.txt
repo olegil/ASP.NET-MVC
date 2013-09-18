@@ -168,3 +168,25 @@ D:\Mikalai Sivokha\GitHub\ASP.NET-MVC\PhotoGallery\BLLServices\bin\Debug\ru\Enti
 D:\Mikalai Sivokha\GitHub\ASP.NET-MVC\PhotoGallery\BLLServices\obj\Debug\BLLServices.csprojResolveAssemblyReference.cache
 D:\Mikalai Sivokha\GitHub\ASP.NET-MVC\PhotoGallery\BLLServices\obj\Debug\BLLServices.dll
 D:\Mikalai Sivokha\GitHub\ASP.NET-MVC\PhotoGallery\BLLServices\obj\Debug\BLLServices.pdb
+D:\GitHub\ASP.NET-MVC\PhotoGallery\BLLServices\bin\Debug\BLLServices.dll
+D:\GitHub\ASP.NET-MVC\PhotoGallery\BLLServices\bin\Debug\BLLServices.pdb
+D:\GitHub\ASP.NET-MVC\PhotoGallery\BLLServices\bin\Debug\BLLCommentService.dll
+D:\GitHub\ASP.NET-MVC\PhotoGallery\BLLServices\bin\Debug\BLLEntities.dll
+D:\GitHub\ASP.NET-MVC\PhotoGallery\BLLServices\bin\Debug\BLLTransform.dll
+D:\GitHub\ASP.NET-MVC\PhotoGallery\BLLServices\bin\Debug\DALEntities.dll
+D:\GitHub\ASP.NET-MVC\PhotoGallery\BLLServices\bin\Debug\DALFactory.dll
+D:\GitHub\ASP.NET-MVC\PhotoGallery\BLLServices\bin\Debug\DALInterface.dll
+D:\GitHub\ASP.NET-MVC\PhotoGallery\BLLServices\bin\Debug\EntityFramework.dll
+D:\GitHub\ASP.NET-MVC\PhotoGallery\BLLServices\bin\Debug\DALDatabase.dll
+D:\GitHub\ASP.NET-MVC\PhotoGallery\BLLServices\bin\Debug\BLLCommentService.pdb
+D:\GitHub\ASP.NET-MVC\PhotoGallery\BLLServices\bin\Debug\BLLEntities.pdb
+D:\GitHub\ASP.NET-MVC\PhotoGallery\BLLServices\bin\Debug\BLLTransform.pdb
+D:\GitHub\ASP.NET-MVC\PhotoGallery\BLLServices\bin\Debug\DALEntities.pdb
+D:\GitHub\ASP.NET-MVC\PhotoGallery\BLLServices\bin\Debug\DALFactory.pdb
+D:\GitHub\ASP.NET-MVC\PhotoGallery\BLLServices\bin\Debug\DALInterface.pdb
+D:\GitHub\ASP.NET-MVC\PhotoGallery\BLLServices\bin\Debug\EntityFramework.xml
+D:\GitHub\ASP.NET-MVC\PhotoGallery\BLLServices\bin\Debug\DALDatabase.pdb
+D:\GitHub\ASP.NET-MVC\PhotoGallery\BLLServices\bin\Debug\ru\EntityFramework.resources.dll
+D:\GitHub\ASP.NET-MVC\PhotoGallery\BLLServices\obj\Debug\BLLServices.csprojResolveAssemblyReference.cache
+D:\GitHub\ASP.NET-MVC\PhotoGallery\BLLServices\obj\Debug\BLLServices.dll
+D:\GitHub\ASP.NET-MVC\PhotoGallery\BLLServices\obj\Debug\BLLServices.pdb

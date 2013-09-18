@@ -68,3 +68,17 @@ D:\Mikalai Sivokha\GitHub\ASP.NET-MVC\PhotoGallery\UnitTestProject\bin\Debug\ru\
 D:\Mikalai Sivokha\GitHub\ASP.NET-MVC\PhotoGallery\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
 D:\Mikalai Sivokha\GitHub\ASP.NET-MVC\PhotoGallery\UnitTestProject\obj\Debug\UnitTestProject.dll
 D:\Mikalai Sivokha\GitHub\ASP.NET-MVC\PhotoGallery\UnitTestProject\obj\Debug\UnitTestProject.pdb
+D:\GitHub\ASP.NET-MVC\PhotoGallery\UnitTestProject\bin\Debug\UnitTestProject.dll
+D:\GitHub\ASP.NET-MVC\PhotoGallery\UnitTestProject\bin\Debug\UnitTestProject.pdb
+D:\GitHub\ASP.NET-MVC\PhotoGallery\UnitTestProject\bin\Debug\BLLCommentService.dll
+D:\GitHub\ASP.NET-MVC\PhotoGallery\UnitTestProject\bin\Debug\BLLEntities.dll
+D:\GitHub\ASP.NET-MVC\PhotoGallery\UnitTestProject\bin\Debug\DALEntities.dll
+D:\GitHub\ASP.NET-MVC\PhotoGallery\UnitTestProject\bin\Debug\EntityFramework.dll
+D:\GitHub\ASP.NET-MVC\PhotoGallery\UnitTestProject\bin\Debug\BLLCommentService.pdb
+D:\GitHub\ASP.NET-MVC\PhotoGallery\UnitTestProject\bin\Debug\BLLEntities.pdb
+D:\GitHub\ASP.NET-MVC\PhotoGallery\UnitTestProject\bin\Debug\DALEntities.pdb
+D:\GitHub\ASP.NET-MVC\PhotoGallery\UnitTestProject\bin\Debug\EntityFramework.xml
+D:\GitHub\ASP.NET-MVC\PhotoGallery\UnitTestProject\bin\Debug\ru\EntityFramework.resources.dll
+D:\GitHub\ASP.NET-MVC\PhotoGallery\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+D:\GitHub\ASP.NET-MVC\PhotoGallery\UnitTestProject\obj\Debug\UnitTestProject.dll
+D:\GitHub\ASP.NET-MVC\PhotoGallery\UnitTestProject\obj\Debug\UnitTestProject.pdb

@@ -1,0 +1,8 @@
+﻿@{
+    Layout = null;
+}
+<p>
+    <a class="position-right" href="#" onclick="closeForm('#workForm', 'confirm-form');">x</a>
+</p>
+<div id="confirmFormMessage">@Resources.Resources.UWantToRemovePhoto</div>
+<p class="button-margin-top"><a class="button" id="confirmFormOkButton" onclick="removePhoto(@ViewBag.ImageId)">Ok</a></p>

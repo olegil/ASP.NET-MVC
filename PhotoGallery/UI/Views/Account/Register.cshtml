@@ -1,0 +1,50 @@
+﻿@model UI.Models.RegisterModel
+
+<hgroup class="title">
+    <h2>@Resources.Resources.CreateNewAccount</h2>
+</hgroup>
+@using (Html.BeginForm())
+{
+    @Html.ValidationSummary(true)
+    <div>
+        @if (ViewData["OpenID"] != null)
+        {
+            <div class="editor-label">
+                @Html.Label("OpenID")
+            </div>
+            <div class="editor-field">
+                @Html.TextBox("OpenIDTextBox", (string)ViewBag.OpenID, new { disabled = "disabled" })
+            </div>
+        }
+        <div class="editor-label">
+            @Html.Label(Resources.Resources.UserName)
+        </div>
+        <div class="editor-field">
+            @Html.TextBoxFor(m => m.UserName)
+            @Html.ValidationMessageFor(m => m.UserName)
+        </div>
+        <div class="editor-label">
+            @Html.Label(Resources.Resources.Email)
+        </div>
+        <div class="editor-field">
+            @Html.TextBoxFor(m => m.UserEmail)
+            @Html.ValidationMessageFor(m => m.UserEmail)
+        </div>
+        <div class="editor-label">
+            @Html.Label(Resources.Resources.Password)
+        </div>
+        <div class="editor-field">
+            @Html.PasswordFor(m => m.Password)
+            @Html.ValidationMessageFor(m => m.Password)
+        </div>
+        <div class="editor-label">
+            @Html.Label(Resources.Resources.ConfirmPassword)
+        </div>
+        <div class="editor-field">
+            @Html.PasswordFor(m => m.ConfirmPassword)
+            @Html.ValidationMessageFor(m => m.ConfirmPassword)
+        </div>
+        <input type="submit" class="btn" value=@Resources.Resources.Registration />
+    </div>
+}
+

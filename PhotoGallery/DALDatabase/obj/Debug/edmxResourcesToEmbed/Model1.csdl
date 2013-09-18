@@ -1,0 +1,229 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DatabaseModel2" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="DatabaseEntities" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="Car" EntityType="DatabaseModel2.Car" />
+    <EntitySet Name="Category" EntityType="DatabaseModel2.Category" />
+    <EntitySet Name="Department" EntityType="DatabaseModel2.Department" />
+    <EntitySet Name="Image" EntityType="DatabaseModel2.Image" />
+    <EntitySet Name="Item" EntityType="DatabaseModel2.Item" />
+    <EntitySet Name="Product" EntityType="DatabaseModel2.Product" />
+    <EntitySet Name="Role" EntityType="DatabaseModel2.Role" />
+    <EntitySet Name="User" EntityType="DatabaseModel2.User" />
+    <AssociationSet Name="FK_Car_ProductId" Association="DatabaseModel2.FK_Car_ProductId">
+      <End Role="Product" EntitySet="Product" />
+      <End Role="Car" EntitySet="Car" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Category_DepartmentId" Association="DatabaseModel2.FK_Category_DepartmentId">
+      <End Role="Department" EntitySet="Department" />
+      <End Role="Category" EntitySet="Category" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Image_CategoryId" Association="DatabaseModel2.FK_Image_CategoryId">
+      <End Role="Category" EntitySet="Category" />
+      <End Role="Image" EntitySet="Image" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Product_CategoryId" Association="DatabaseModel2.FK_Product_CategoryId">
+      <End Role="Category" EntitySet="Category" />
+      <End Role="Product" EntitySet="Product" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Image_ItemId" Association="DatabaseModel2.FK_Image_ItemId">
+      <End Role="Item" EntitySet="Item" />
+      <End Role="Image" EntitySet="Image" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Image_ProductId" Association="DatabaseModel2.FK_Image_ProductId">
+      <End Role="Product" EntitySet="Product" />
+      <End Role="Image" EntitySet="Image" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Item_ProductId" Association="DatabaseModel2.FK_Item_ProductId">
+      <End Role="Product" EntitySet="Product" />
+      <End Role="Item" EntitySet="Item" />
+    </AssociationSet>
+    <AssociationSet Name="FK_User_RoleId" Association="DatabaseModel2.FK_User_RoleId">
+      <End Role="Role" EntitySet="Role" />
+      <End Role="User" EntitySet="User" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Car">
+    <Key>
+      <PropertyRef Name="CarId" />
+    </Key>
+    <Property Name="CarId" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="ProductId" Type="Int32" Nullable="false" />
+    <Property Name="CarMark" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="CarModel" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="CarDistance" Type="Int32" Nullable="false" />
+    <Property Name="CarBodyType" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="CarFuelType" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="CarEngineSize" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Product" Relationship="DatabaseModel2.FK_Car_ProductId" FromRole="Car" ToRole="Product" />
+  </EntityType>
+  <EntityType Name="Category">
+    <Key>
+      <PropertyRef Name="CategoryId" />
+    </Key>
+    <Property Name="CategoryId" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="CategoryName" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="DepartmentId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Department" Relationship="DatabaseModel2.FK_Category_DepartmentId" FromRole="Category" ToRole="Department" />
+    <NavigationProperty Name="Image" Relationship="DatabaseModel2.FK_Image_CategoryId" FromRole="Category" ToRole="Image" />
+    <NavigationProperty Name="Product" Relationship="DatabaseModel2.FK_Product_CategoryId" FromRole="Category" ToRole="Product" />
+  </EntityType>
+  <EntityType Name="Department">
+    <Key>
+      <PropertyRef Name="DepartmentId" />
+    </Key>
+    <Property Name="DepartmentId" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="DepartmentName" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="Category" Relationship="DatabaseModel2.FK_Category_DepartmentId" FromRole="Department" ToRole="Category" />
+  </EntityType>
+  <EntityType Name="Image">
+    <Key>
+      <PropertyRef Name="ImageId" />
+    </Key>
+    <Property Name="ImageId" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="ItemId" Type="Int32" />
+    <Property Name="ImagePicture" Type="Binary" Nullable="false" MaxLength="Max" FixedLength="false" />
+    <Property Name="ProductId" Type="Int32" />
+    <Property Name="CategoryId" Type="Int32" />
+    <NavigationProperty Name="Category" Relationship="DatabaseModel2.FK_Image_CategoryId" FromRole="Image" ToRole="Category" />
+    <NavigationProperty Name="Item" Relationship="DatabaseModel2.FK_Image_ItemId" FromRole="Image" ToRole="Item" />
+    <NavigationProperty Name="Product" Relationship="DatabaseModel2.FK_Image_ProductId" FromRole="Image" ToRole="Product" />
+  </EntityType>
+  <EntityType Name="Item">
+    <Key>
+      <PropertyRef Name="ItemId" />
+    </Key>
+    <Property Name="ItemId" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="ProductId" Type="Int32" Nullable="false" />
+    <Property Name="ItemName" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="ItemPrice" Type="Decimal" Nullable="false" Precision="19" Scale="4" />
+    <Property Name="ItemTradingEnd" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="ItemDescription" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="Image" Relationship="DatabaseModel2.FK_Image_ItemId" FromRole="Item" ToRole="Image" />
+    <NavigationProperty Name="Product" Relationship="DatabaseModel2.FK_Item_ProductId" FromRole="Item" ToRole="Product" />
+  </EntityType>
+  <EntityType Name="Product">
+    <Key>
+      <PropertyRef Name="ProductId" />
+    </Key>
+    <Property Name="ProductId" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="CategoryId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Car" Relationship="DatabaseModel2.FK_Car_ProductId" FromRole="Product" ToRole="Car" />
+    <NavigationProperty Name="Category" Relationship="DatabaseModel2.FK_Product_CategoryId" FromRole="Product" ToRole="Category" />
+    <NavigationProperty Name="Image" Relationship="DatabaseModel2.FK_Image_ProductId" FromRole="Product" ToRole="Image" />
+    <NavigationProperty Name="Item" Relationship="DatabaseModel2.FK_Item_ProductId" FromRole="Product" ToRole="Item" />
+  </EntityType>
+  <EntityType Name="Role">
+    <Key>
+      <PropertyRef Name="RoleId" />
+    </Key>
+    <Property Name="RoleId" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="RoleName" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="User" Relationship="DatabaseModel2.FK_User_RoleId" FromRole="Role" ToRole="User" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="UserId" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="RoleId" Type="Int32" Nullable="false" />
+    <Property Name="UserLogin" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="UserPassword" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="Role" Relationship="DatabaseModel2.FK_User_RoleId" FromRole="User" ToRole="Role" />
+  </EntityType>
+  <Association Name="FK_Car_ProductId">
+    <End Role="Product" Type="DatabaseModel2.Product" Multiplicity="1" />
+    <End Role="Car" Type="DatabaseModel2.Car" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Product">
+        <PropertyRef Name="ProductId" />
+      </Principal>
+      <Dependent Role="Car">
+        <PropertyRef Name="ProductId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Category_DepartmentId">
+    <End Role="Department" Type="DatabaseModel2.Department" Multiplicity="1" />
+    <End Role="Category" Type="DatabaseModel2.Category" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Department">
+        <PropertyRef Name="DepartmentId" />
+      </Principal>
+      <Dependent Role="Category">
+        <PropertyRef Name="DepartmentId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Image_CategoryId">
+    <End Role="Category" Type="DatabaseModel2.Category" Multiplicity="0..1" />
+    <End Role="Image" Type="DatabaseModel2.Image" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Category">
+        <PropertyRef Name="CategoryId" />
+      </Principal>
+      <Dependent Role="Image">
+        <PropertyRef Name="CategoryId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Product_CategoryId">
+    <End Role="Category" Type="DatabaseModel2.Category" Multiplicity="1" />
+    <End Role="Product" Type="DatabaseModel2.Product" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Category">
+        <PropertyRef Name="CategoryId" />
+      </Principal>
+      <Dependent Role="Product">
+        <PropertyRef Name="CategoryId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Image_ItemId">
+    <End Role="Item" Type="DatabaseModel2.Item" Multiplicity="0..1" />
+    <End Role="Image" Type="DatabaseModel2.Image" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Item">
+        <PropertyRef Name="ItemId" />
+      </Principal>
+      <Dependent Role="Image">
+        <PropertyRef Name="ItemId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Image_ProductId">
+    <End Role="Product" Type="DatabaseModel2.Product" Multiplicity="0..1" />
+    <End Role="Image" Type="DatabaseModel2.Image" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Product">
+        <PropertyRef Name="ProductId" />
+      </Principal>
+      <Dependent Role="Image">
+        <PropertyRef Name="ProductId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Item_ProductId">
+    <End Role="Product" Type="DatabaseModel2.Product" Multiplicity="1" />
+    <End Role="Item" Type="DatabaseModel2.Item" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Product">
+        <PropertyRef Name="ProductId" />
+      </Principal>
+      <Dependent Role="Item">
+        <PropertyRef Name="ProductId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_User_RoleId">
+    <End Role="Role" Type="DatabaseModel2.Role" Multiplicity="1" />
+    <End Role="User" Type="DatabaseModel2.User" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Role">
+        <PropertyRef Name="RoleId" />
+      </Principal>
+      <Dependent Role="User">
+        <PropertyRef Name="RoleId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

@@ -1,0 +1,70 @@
+﻿@model UI.Models.UserTable
+@{
+    ViewBag.Title = "ShowUsers";
+}
+<div class="panel panel-padding panel-padding-height">
+    @foreach (var user in Model.Users)
+    {             
+        <div id="UserInformation" class="user-information-container">
+            <h2>@user.UserLogin</h2>
+            <table>
+                <tbody>
+                    <tr>
+                        <td>
+                            <b>@Resources.Resources.UserLoginName</b>
+                        </td>
+                        <td>
+                            @user.UserLogin
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <b>@Resources.Resources.UserEmail</b>
+                        </td>
+                        <td>
+                            @user.UserEmail
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <b>@Resources.Resources.AccountCreateDate</b>
+                        </td>
+                        <td>
+                            @user.UserCreateDate
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <b>@Resources.Resources.UserStatus</b>
+                        </td>
+                        @if (user.UserIsActive == true)
+                        {
+                            <td id="@user.UserLogin">@Resources.Resources.Active</td>
+                        }
+                        else
+                        {
+                            <td id="@user.UserLogin">@Resources.Resources.Unactive</td> 
+                        }
+                        <td>
+                            <a onclick="changeUserStatus(@user.UserId, @user.UserLogin)">@Resources.Resources.Change</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <b>@Resources.Resources.Roles</b>
+                        </td>
+                        <td>
+                            @foreach (var role in user.Role)
+                            {                            
+                                <div class="roleName-container">@role.RoleName</div>                                                             
+                            }
+                        </td>
+                        <td>
+                            <a onclick="createChangeUserRoleForm(@user.UserId)">@Resources.Resources.Change</a>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>       
+    }
+</div>

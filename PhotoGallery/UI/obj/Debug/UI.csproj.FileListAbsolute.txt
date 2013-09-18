@@ -1,0 +1,466 @@
+C:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\UI\bin\UI.dll
+C:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\UI\bin\UI.pdb
+C:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\UI\bin\Newtonsoft.Json.dll
+C:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\UI\bin\System.Net.Http.Formatting.dll
+C:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\UI\bin\System.Web.Helpers.dll
+C:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\UI\bin\System.Web.Http.dll
+C:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\UI\bin\System.Web.Http.WebHost.dll
+C:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\UI\bin\System.Web.Mvc.dll
+C:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\UI\bin\System.Web.Razor.dll
+C:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\UI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\UI\bin\System.Web.WebPages.dll
+C:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\UI\bin\System.Web.WebPages.Razor.dll
+C:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\UI\bin\Newtonsoft.Json.xml
+C:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\UI\bin\System.Net.Http.Formatting.xml
+C:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\UI\bin\System.Web.Helpers.xml
+C:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\UI\bin\System.Web.Http.xml
+C:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\UI\bin\System.Web.Http.WebHost.xml
+C:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\UI\bin\System.Web.Mvc.xml
+C:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\UI\bin\System.Web.Razor.xml
+C:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\UI\bin\System.Web.WebPages.xml
+C:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\UI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\UI\bin\System.Web.WebPages.Razor.xml
+C:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\UI\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\UI\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\UI\bin\ru\System.Web.Http.resources.dll
+C:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\UI\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\UI\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\UI\bin\ru\System.Web.Razor.resources.dll
+C:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\UI\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\UI\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\UI\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\UI\obj\Debug\UI.dll
+C:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\UI\obj\Debug\UI.pdb
+C:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\UI\bin\BLLEntities.dll
+C:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\UI\bin\BLLServices.dll
+C:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\UI\bin\DALFactory.dll
+C:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\UI\bin\DALInterface.dll
+C:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\UI\bin\DALEntities.dll
+C:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\UI\bin\DALDatabase.dll
+C:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\UI\bin\BLLEntities.pdb
+C:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\UI\bin\BLLServices.pdb
+C:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\UI\bin\DALFactory.pdb
+C:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\UI\bin\DALInterface.pdb
+C:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\UI\bin\DALEntities.pdb
+C:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\UI\bin\DALDatabase.pdb
+C:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\UI\bin\EntityFramework.dll
+C:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\UI\bin\EntityFramework.xml
+C:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\UI\bin\ru\EntityFramework.resources.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\UI\bin\SearchControllerFactoryMethod.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\UI\bin\SearchControllerFactoryMethod.pdb
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\UI\bin\nunit.framework.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\UI\bin\nunit.framework.xml
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\UI\bin\BLLTransform.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\UI\bin\BLLTransform.pdb
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\UI\bin\EmailMessenger.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\UI\bin\EmailMessenger.pdb
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\UI\obj\Debug\UI.dll
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\UI\obj\Debug\UI.pdb
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\UI\bin\UI.dll
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\UI\bin\UI.pdb
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\UI\bin\BLLEntities.dll
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\UI\bin\BLLServices.dll
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\UI\bin\EntityFramework.dll
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\UI\bin\Microsoft.Web.Infrastructure.dll
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\UI\bin\Newtonsoft.Json.dll
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\UI\bin\nunit.framework.dll
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\UI\bin\System.Net.Http.Formatting.dll
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\UI\bin\System.Web.Helpers.dll
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\UI\bin\System.Web.Http.dll
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\UI\bin\System.Web.Http.WebHost.dll
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\UI\bin\System.Web.Mvc.dll
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\UI\bin\System.Web.Razor.dll
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\UI\bin\System.Web.WebPages.Deployment.dll
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\UI\bin\System.Web.WebPages.dll
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\UI\bin\System.Web.WebPages.Razor.dll
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\UI\bin\DALEntities.dll
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\UI\bin\DALFactory.dll
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\UI\bin\DALInterface.dll
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\UI\bin\BLLTransform.dll
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\UI\bin\DALDatabase.dll
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\UI\bin\BLLEntities.pdb
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\UI\bin\BLLServices.pdb
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\UI\bin\EntityFramework.xml
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\UI\bin\nunit.framework.xml
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\UI\bin\Newtonsoft.Json.xml
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\UI\bin\System.Net.Http.Formatting.xml
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\UI\bin\System.Web.Helpers.xml
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\UI\bin\System.Web.Http.xml
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\UI\bin\System.Web.Http.WebHost.xml
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\UI\bin\System.Web.Mvc.xml
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\UI\bin\System.Web.Razor.xml
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\UI\bin\System.Web.WebPages.xml
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\UI\bin\System.Web.WebPages.Deployment.xml
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\UI\bin\System.Web.WebPages.Razor.xml
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\UI\bin\DALEntities.pdb
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\UI\bin\DALFactory.pdb
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\UI\bin\DALInterface.pdb
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\UI\bin\BLLTransform.pdb
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\UI\bin\DALDatabase.pdb
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\UI\bin\ru\EntityFramework.resources.dll
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\UI\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\UI\bin\ru\System.Web.Helpers.resources.dll
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\UI\bin\ru\System.Web.Http.resources.dll
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\UI\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\UI\bin\ru\System.Web.Mvc.resources.dll
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\UI\bin\ru\System.Web.Razor.resources.dll
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\UI\bin\ru\System.Web.WebPages.resources.dll
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\UI\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\UI\bin\ru\System.Web.WebPages.Razor.resources.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\UI\bin\UI.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\UI\bin\UI.pdb
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\UI\bin\BLLEntities.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\UI\bin\BLLServices.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\UI\bin\EntityFramework.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\UI\bin\Microsoft.Web.Infrastructure.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\UI\bin\Newtonsoft.Json.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\UI\bin\nunit.framework.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\UI\bin\System.Net.Http.Formatting.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\UI\bin\System.Web.Helpers.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\UI\bin\System.Web.Http.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\UI\bin\System.Web.Http.WebHost.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\UI\bin\System.Web.Mvc.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\UI\bin\System.Web.Razor.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\UI\bin\System.Web.WebPages.Deployment.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\UI\bin\System.Web.WebPages.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\UI\bin\System.Web.WebPages.Razor.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\UI\bin\DALEntities.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\UI\bin\DALFactory.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\UI\bin\DALInterface.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\UI\bin\BLLTransform.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\UI\bin\DALDatabase.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\UI\bin\BLLEntities.pdb
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\UI\bin\BLLServices.pdb
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\UI\bin\EntityFramework.xml
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\UI\bin\nunit.framework.xml
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\UI\bin\Newtonsoft.Json.xml
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\UI\bin\System.Net.Http.Formatting.xml
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\UI\bin\System.Web.Helpers.xml
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\UI\bin\System.Web.Http.xml
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\UI\bin\System.Web.Http.WebHost.xml
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\UI\bin\System.Web.Mvc.xml
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\UI\bin\System.Web.Razor.xml
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\UI\bin\System.Web.WebPages.xml
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\UI\bin\System.Web.WebPages.Deployment.xml
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\UI\bin\System.Web.WebPages.Razor.xml
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\UI\bin\DALEntities.pdb
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\UI\bin\DALFactory.pdb
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\UI\bin\DALInterface.pdb
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\UI\bin\BLLTransform.pdb
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\UI\bin\DALDatabase.pdb
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\UI\bin\ru\EntityFramework.resources.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\UI\bin\ru\System.Net.Http.Formatting.resources.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\UI\bin\ru\System.Web.Helpers.resources.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\UI\bin\ru\System.Web.Http.resources.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\UI\bin\ru\System.Web.Http.WebHost.resources.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\UI\bin\ru\System.Web.Mvc.resources.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\UI\bin\ru\System.Web.Razor.resources.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\UI\bin\ru\System.Web.WebPages.resources.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\UI\bin\ru\System.Web.WebPages.Deployment.resources.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\UI\bin\ru\System.Web.WebPages.Razor.resources.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\UI\obj\Debug\UI.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\UI\obj\Debug\UI.pdb
+D:\Mikalai Sivokha\Projects\PhotoGallery\UI\bin\UI.dll
+D:\Mikalai Sivokha\Projects\PhotoGallery\UI\bin\UI.pdb
+D:\Mikalai Sivokha\Projects\PhotoGallery\UI\bin\BLLEntities.dll
+D:\Mikalai Sivokha\Projects\PhotoGallery\UI\bin\BLLServices.dll
+D:\Mikalai Sivokha\Projects\PhotoGallery\UI\bin\EntityFramework.dll
+D:\Mikalai Sivokha\Projects\PhotoGallery\UI\bin\Microsoft.Web.Infrastructure.dll
+D:\Mikalai Sivokha\Projects\PhotoGallery\UI\bin\Newtonsoft.Json.dll
+D:\Mikalai Sivokha\Projects\PhotoGallery\UI\bin\nunit.framework.dll
+D:\Mikalai Sivokha\Projects\PhotoGallery\UI\bin\System.Net.Http.Formatting.dll
+D:\Mikalai Sivokha\Projects\PhotoGallery\UI\bin\System.Web.Helpers.dll
+D:\Mikalai Sivokha\Projects\PhotoGallery\UI\bin\System.Web.Http.dll
+D:\Mikalai Sivokha\Projects\PhotoGallery\UI\bin\System.Web.Http.WebHost.dll
+D:\Mikalai Sivokha\Projects\PhotoGallery\UI\bin\System.Web.Mvc.dll
+D:\Mikalai Sivokha\Projects\PhotoGallery\UI\bin\System.Web.Razor.dll
+D:\Mikalai Sivokha\Projects\PhotoGallery\UI\bin\System.Web.WebPages.Deployment.dll
+D:\Mikalai Sivokha\Projects\PhotoGallery\UI\bin\System.Web.WebPages.dll
+D:\Mikalai Sivokha\Projects\PhotoGallery\UI\bin\System.Web.WebPages.Razor.dll
+D:\Mikalai Sivokha\Projects\PhotoGallery\UI\bin\DALEntities.dll
+D:\Mikalai Sivokha\Projects\PhotoGallery\UI\bin\DALFactory.dll
+D:\Mikalai Sivokha\Projects\PhotoGallery\UI\bin\DALInterface.dll
+D:\Mikalai Sivokha\Projects\PhotoGallery\UI\bin\BLLTransform.dll
+D:\Mikalai Sivokha\Projects\PhotoGallery\UI\bin\DALDatabase.dll
+D:\Mikalai Sivokha\Projects\PhotoGallery\UI\bin\BLLEntities.pdb
+D:\Mikalai Sivokha\Projects\PhotoGallery\UI\bin\BLLServices.pdb
+D:\Mikalai Sivokha\Projects\PhotoGallery\UI\bin\EntityFramework.xml
+D:\Mikalai Sivokha\Projects\PhotoGallery\UI\bin\nunit.framework.xml
+D:\Mikalai Sivokha\Projects\PhotoGallery\UI\bin\Newtonsoft.Json.xml
+D:\Mikalai Sivokha\Projects\PhotoGallery\UI\bin\System.Net.Http.Formatting.xml
+D:\Mikalai Sivokha\Projects\PhotoGallery\UI\bin\System.Web.Helpers.xml
+D:\Mikalai Sivokha\Projects\PhotoGallery\UI\bin\System.Web.Http.xml
+D:\Mikalai Sivokha\Projects\PhotoGallery\UI\bin\System.Web.Http.WebHost.xml
+D:\Mikalai Sivokha\Projects\PhotoGallery\UI\bin\System.Web.Mvc.xml
+D:\Mikalai Sivokha\Projects\PhotoGallery\UI\bin\System.Web.Razor.xml
+D:\Mikalai Sivokha\Projects\PhotoGallery\UI\bin\System.Web.WebPages.xml
+D:\Mikalai Sivokha\Projects\PhotoGallery\UI\bin\System.Web.WebPages.Deployment.xml
+D:\Mikalai Sivokha\Projects\PhotoGallery\UI\bin\System.Web.WebPages.Razor.xml
+D:\Mikalai Sivokha\Projects\PhotoGallery\UI\bin\DALEntities.pdb
+D:\Mikalai Sivokha\Projects\PhotoGallery\UI\bin\DALFactory.pdb
+D:\Mikalai Sivokha\Projects\PhotoGallery\UI\bin\DALInterface.pdb
+D:\Mikalai Sivokha\Projects\PhotoGallery\UI\bin\BLLTransform.pdb
+D:\Mikalai Sivokha\Projects\PhotoGallery\UI\bin\DALDatabase.pdb
+D:\Mikalai Sivokha\Projects\PhotoGallery\UI\bin\ru\EntityFramework.resources.dll
+D:\Mikalai Sivokha\Projects\PhotoGallery\UI\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\Mikalai Sivokha\Projects\PhotoGallery\UI\bin\ru\System.Web.Helpers.resources.dll
+D:\Mikalai Sivokha\Projects\PhotoGallery\UI\bin\ru\System.Web.Http.resources.dll
+D:\Mikalai Sivokha\Projects\PhotoGallery\UI\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\Mikalai Sivokha\Projects\PhotoGallery\UI\bin\ru\System.Web.Mvc.resources.dll
+D:\Mikalai Sivokha\Projects\PhotoGallery\UI\bin\ru\System.Web.Razor.resources.dll
+D:\Mikalai Sivokha\Projects\PhotoGallery\UI\bin\ru\System.Web.WebPages.resources.dll
+D:\Mikalai Sivokha\Projects\PhotoGallery\UI\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Mikalai Sivokha\Projects\PhotoGallery\UI\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Mikalai Sivokha\Projects\PhotoGallery\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+D:\Mikalai Sivokha\Projects\PhotoGallery\UI\obj\Debug\UI.dll
+D:\Mikalai Sivokha\Projects\PhotoGallery\UI\obj\Debug\UI.pdb
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\UI\bin\UI.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\UI\bin\UI.pdb
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\UI\bin\BLLEntities.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\UI\bin\BLLServices.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\UI\bin\EntityFramework.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\UI\bin\Microsoft.Web.Infrastructure.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\UI\bin\Newtonsoft.Json.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\UI\bin\nunit.framework.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\UI\bin\System.Net.Http.Formatting.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\UI\bin\System.Web.Helpers.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\UI\bin\System.Web.Http.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\UI\bin\System.Web.Http.WebHost.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\UI\bin\System.Web.Mvc.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\UI\bin\System.Web.Razor.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\UI\bin\System.Web.WebPages.Deployment.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\UI\bin\System.Web.WebPages.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\UI\bin\System.Web.WebPages.Razor.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\UI\bin\DALEntities.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\UI\bin\DALFactory.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\UI\bin\DALInterface.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\UI\bin\BLLTransform.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\UI\bin\DALDatabase.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\UI\bin\BLLEntities.pdb
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\UI\bin\BLLServices.pdb
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\UI\bin\EntityFramework.xml
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\UI\bin\nunit.framework.xml
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\UI\bin\Newtonsoft.Json.xml
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\UI\bin\System.Net.Http.Formatting.xml
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\UI\bin\System.Web.Helpers.xml
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\UI\bin\System.Web.Http.xml
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\UI\bin\System.Web.Http.WebHost.xml
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\UI\bin\System.Web.Mvc.xml
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\UI\bin\System.Web.Razor.xml
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\UI\bin\System.Web.WebPages.xml
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\UI\bin\System.Web.WebPages.Deployment.xml
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\UI\bin\System.Web.WebPages.Razor.xml
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\UI\bin\DALEntities.pdb
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\UI\bin\DALFactory.pdb
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\UI\bin\DALInterface.pdb
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\UI\bin\BLLTransform.pdb
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\UI\bin\DALDatabase.pdb
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\UI\bin\ru\EntityFramework.resources.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\UI\bin\ru\System.Net.Http.Formatting.resources.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\UI\bin\ru\System.Web.Helpers.resources.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\UI\bin\ru\System.Web.Http.resources.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\UI\bin\ru\System.Web.Http.WebHost.resources.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\UI\bin\ru\System.Web.Mvc.resources.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\UI\bin\ru\System.Web.Razor.resources.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\UI\bin\ru\System.Web.WebPages.resources.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\UI\bin\ru\System.Web.WebPages.Deployment.resources.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\UI\bin\ru\System.Web.WebPages.Razor.resources.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\UI\obj\Debug\UI.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\UI\obj\Debug\UI.pdb
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\UI\bin\Resources.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\UI\bin\Resources.pdb
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\UI\bin\ru\Resources.resources.dll
+D:\Mikalai Sivokha\Projects\PhotoGallery\UI\bin\Resources.dll
+D:\Mikalai Sivokha\Projects\PhotoGallery\UI\bin\Resources.pdb
+D:\Mikalai Sivokha\Projects\PhotoGallery\UI\bin\ru\Resources.resources.dll
+D:\Mikalai Sivokha\Projects\PhotoGallery\UI\bin\DotNetOpenAuth.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\UI\bin\DotNetOpenAuth.dll
+D:\Mikalai Sivokha\Projects\PhotoGallery\UI\bin\BLLCommentService.dll
+D:\Mikalai Sivokha\Projects\PhotoGallery\UI\bin\BLLCommentService.pdb
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\UI\bin\BLLCommentService.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\UI\bin\BLLCommentService.pdb
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\UI.dll
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\UI.pdb
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\BLLEntities.dll
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\BLLServices.dll
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\DotNetOpenAuth.dll
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\EntityFramework.dll
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\Microsoft.Web.Infrastructure.dll
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\Newtonsoft.Json.dll
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\nunit.framework.dll
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\Resources.dll
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\System.Net.Http.Formatting.dll
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\System.Web.Helpers.dll
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\System.Web.Http.dll
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\System.Web.Http.WebHost.dll
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\System.Web.Mvc.dll
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\System.Web.Razor.dll
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\System.Web.WebPages.Deployment.dll
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\System.Web.WebPages.dll
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\System.Web.WebPages.Razor.dll
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\DALEntities.dll
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\BLLTransform.dll
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\DALFactory.dll
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\DALInterface.dll
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\BLLCommentService.dll
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\DALDatabase.dll
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\BLLEntities.pdb
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\BLLServices.pdb
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\Resources.pdb
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\EntityFramework.xml
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\nunit.framework.xml
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\Newtonsoft.Json.xml
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\System.Net.Http.Formatting.xml
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\System.Web.Helpers.xml
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\System.Web.Http.xml
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\System.Web.Http.WebHost.xml
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\System.Web.Mvc.xml
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\System.Web.Razor.xml
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\System.Web.WebPages.xml
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\System.Web.WebPages.Deployment.xml
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\System.Web.WebPages.Razor.xml
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\DALEntities.pdb
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\BLLTransform.pdb
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\DALFactory.pdb
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\DALInterface.pdb
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\BLLCommentService.pdb
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\DALDatabase.pdb
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\ru\Resources.resources.dll
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\ru\EntityFramework.resources.dll
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\ru\System.Web.Helpers.resources.dll
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\ru\System.Web.Http.resources.dll
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\ru\System.Web.Mvc.resources.dll
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\ru\System.Web.Razor.resources.dll
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\ru\System.Web.WebPages.resources.dll
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\obj\Debug\UI.dll
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\obj\Debug\UI.pdb
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\UI.dll
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\UI.pdb
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\BLLEntities.dll
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\BLLServices.dll
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\DotNetOpenAuth.dll
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\EntityFramework.dll
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\Microsoft.Web.Infrastructure.dll
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\Newtonsoft.Json.dll
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\nunit.framework.dll
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\Resources.dll
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\System.Net.Http.Formatting.dll
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\System.Web.Helpers.dll
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\System.Web.Http.dll
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\System.Web.Http.WebHost.dll
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\System.Web.Mvc.dll
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\System.Web.Razor.dll
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\System.Web.WebPages.Deployment.dll
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\System.Web.WebPages.dll
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\System.Web.WebPages.Razor.dll
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\DALEntities.dll
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\BLLTransform.dll
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\DALFactory.dll
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\DALInterface.dll
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\BLLCommentService.dll
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\DALDatabase.dll
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\BLLEntities.pdb
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\BLLServices.pdb
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\Resources.pdb
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\EntityFramework.xml
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\nunit.framework.xml
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\Newtonsoft.Json.xml
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\System.Net.Http.Formatting.xml
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\System.Web.Helpers.xml
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\System.Web.Http.xml
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\System.Web.Http.WebHost.xml
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\System.Web.Mvc.xml
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\System.Web.Razor.xml
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\System.Web.WebPages.xml
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\System.Web.WebPages.Deployment.xml
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\System.Web.WebPages.Razor.xml
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\DALEntities.pdb
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\BLLTransform.pdb
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\DALFactory.pdb
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\DALInterface.pdb
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\BLLCommentService.pdb
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\DALDatabase.pdb
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\ru\Resources.resources.dll
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\ru\EntityFramework.resources.dll
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\ru\System.Web.Helpers.resources.dll
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\ru\System.Web.Http.resources.dll
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\ru\System.Web.Mvc.resources.dll
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\ru\System.Web.Razor.resources.dll
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\ru\System.Web.WebPages.resources.dll
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\obj\Debug\UI.dll
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\UI\obj\Debug\UI.pdb
+D:\PhotoGallery\UI\bin\UI.dll
+D:\PhotoGallery\UI\bin\UI.pdb
+D:\PhotoGallery\UI\bin\BLLEntities.dll
+D:\PhotoGallery\UI\bin\BLLServices.dll
+D:\PhotoGallery\UI\bin\DotNetOpenAuth.dll
+D:\PhotoGallery\UI\bin\EntityFramework.dll
+D:\PhotoGallery\UI\bin\Microsoft.Web.Infrastructure.dll
+D:\PhotoGallery\UI\bin\Newtonsoft.Json.dll
+D:\PhotoGallery\UI\bin\nunit.framework.dll
+D:\PhotoGallery\UI\bin\Resources.dll
+D:\PhotoGallery\UI\bin\System.Net.Http.Formatting.dll
+D:\PhotoGallery\UI\bin\System.Web.Helpers.dll
+D:\PhotoGallery\UI\bin\System.Web.Http.dll
+D:\PhotoGallery\UI\bin\System.Web.Http.WebHost.dll
+D:\PhotoGallery\UI\bin\System.Web.Mvc.dll
+D:\PhotoGallery\UI\bin\System.Web.Razor.dll
+D:\PhotoGallery\UI\bin\System.Web.WebPages.Deployment.dll
+D:\PhotoGallery\UI\bin\System.Web.WebPages.dll
+D:\PhotoGallery\UI\bin\System.Web.WebPages.Razor.dll
+D:\PhotoGallery\UI\bin\DALEntities.dll
+D:\PhotoGallery\UI\bin\BLLTransform.dll
+D:\PhotoGallery\UI\bin\DALFactory.dll
+D:\PhotoGallery\UI\bin\DALInterface.dll
+D:\PhotoGallery\UI\bin\BLLCommentService.dll
+D:\PhotoGallery\UI\bin\DALDatabase.dll
+D:\PhotoGallery\UI\bin\BLLEntities.pdb
+D:\PhotoGallery\UI\bin\BLLServices.pdb
+D:\PhotoGallery\UI\bin\Resources.pdb
+D:\PhotoGallery\UI\bin\EntityFramework.xml
+D:\PhotoGallery\UI\bin\nunit.framework.xml
+D:\PhotoGallery\UI\bin\Newtonsoft.Json.xml
+D:\PhotoGallery\UI\bin\System.Net.Http.Formatting.xml
+D:\PhotoGallery\UI\bin\System.Web.Helpers.xml
+D:\PhotoGallery\UI\bin\System.Web.Http.xml
+D:\PhotoGallery\UI\bin\System.Web.Http.WebHost.xml
+D:\PhotoGallery\UI\bin\System.Web.Mvc.xml
+D:\PhotoGallery\UI\bin\System.Web.Razor.xml
+D:\PhotoGallery\UI\bin\System.Web.WebPages.xml
+D:\PhotoGallery\UI\bin\System.Web.WebPages.Deployment.xml
+D:\PhotoGallery\UI\bin\System.Web.WebPages.Razor.xml
+D:\PhotoGallery\UI\bin\DALEntities.pdb
+D:\PhotoGallery\UI\bin\BLLTransform.pdb
+D:\PhotoGallery\UI\bin\DALFactory.pdb
+D:\PhotoGallery\UI\bin\DALInterface.pdb
+D:\PhotoGallery\UI\bin\BLLCommentService.pdb
+D:\PhotoGallery\UI\bin\DALDatabase.pdb
+D:\PhotoGallery\UI\bin\ru\Resources.resources.dll
+D:\PhotoGallery\UI\bin\ru\EntityFramework.resources.dll
+D:\PhotoGallery\UI\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\PhotoGallery\UI\bin\ru\System.Web.Helpers.resources.dll
+D:\PhotoGallery\UI\bin\ru\System.Web.Http.resources.dll
+D:\PhotoGallery\UI\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\PhotoGallery\UI\bin\ru\System.Web.Mvc.resources.dll
+D:\PhotoGallery\UI\bin\ru\System.Web.Razor.resources.dll
+D:\PhotoGallery\UI\bin\ru\System.Web.WebPages.resources.dll
+D:\PhotoGallery\UI\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\PhotoGallery\UI\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\PhotoGallery\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+D:\PhotoGallery\UI\obj\Debug\UI.dll
+D:\PhotoGallery\UI\obj\Debug\UI.pdb

@@ -1,0 +1,22 @@
+﻿@model UI.Models.ImageReview
+@{
+    Layout = null;
+}
+@if (Model != null)
+{    
+    <p>
+        <a class="position-right" href="#" onclick="closeForm('#workForm', 'search-form');">x</a>
+    </p>
+    <p>
+        @Resources.Resources.SearchResultsByRequest
+        <p>
+            @Resources.Resources.Tag <a>@ViewBag.TagName</a>
+        </p>
+    </p>
+    foreach (var image in Model.Images)
+    {
+    <a class="th image-search-result-size" href="#" onclick="ShowImage(@image.ImageId); closeForm('#workForm', 'search-form'); setImageIndexByImageId(@image.ImageId);">
+        <img src="@image.ImagePicture" />
+    </a> 
+    }
+}

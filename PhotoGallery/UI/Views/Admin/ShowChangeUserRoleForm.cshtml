@@ -1,0 +1,31 @@
+﻿@model UI.Models.User
+@{
+    Layout = null;
+}
+<script type='text/javascript'>
+    $(function () {
+        document.getElementById('UserId').value = @Model.UserId;
+    });
+</script>
+<input type="hidden" value="0" id="UserId" />
+<script src="~/Scripts/addRole.js"></script>
+<p>
+    <a class="position-right" href="#" onclick="closeForm('#workForm', 'changeUserRole-form');">x</a>
+</p>
+@Html.TextBox("RoleNames", "", new { style="display: none", id="addRoleRoleNamesTextBox" })
+<ul class="title-area ul-style-none" id="addRoleList">
+    <li>
+        @Html.DropDownList("Roles", new SelectList(ViewBag.Roles), new { onchange = "addRoleNameToEnteredRoleList();", id = "addRoleNameDropdownList" })
+    </li>
+</ul>
+<ul class="button-tag-group">
+    <li><a class="button" onclick="saveRoles();">Save</a></li>
+    <li>
+        <ul class="inline-list-none" id="addEnteredRole">
+            @foreach (var role in Model.Role)
+            {
+                <li><a class="add-role" onclick="removeSelectedAddRole('@role.RoleName');">@role.RoleName</a></li>
+            }
+        </ul>
+    </li>
+</ul>

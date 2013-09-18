@@ -1,0 +1,39 @@
+﻿@using UI.Helpers
+@{
+    ViewBag.Title = "Index";
+}
+<script src="~/Scripts/comments.js"></script>
+<script src="~/Scripts/showImage.js"></script>
+<script src="~/Scripts/showImagePage.js"></script>
+<script type='text/javascript'>
+    var IntervalId;
+
+    $(function () {
+        document.getElementById('ImagesOnPageCount').value = @ViewBag.ImagesOnPageCount;
+        GetPageButtons();
+        GetImageReview(0);
+    });
+</script>
+<input type="hidden" value="0" id="PageIndex" />
+<input type="hidden" value="0" id="LastPageIndex" />
+<input type="hidden" value="0" id="ImageIndex" />
+<input type="hidden" value="0" id="ImageCount" />
+<input type="hidden" value="0" id="ImagesOnPageCount" />
+<input type="hidden" value="0" id="IntervalId" />
+<input type="hidden" value="0" id="ImagePanelTypeId" />
+<div class="panel panel-padding panel-padding-height container-center" id="ImagePanel">
+</div>
+<div class="button-bar button-bar-height" id="PageButtonsPanel">
+</div>
+@if (ViewHelper.IsInRole(User.Identity.Name, "User"))
+{
+    <div id="CommentArea">
+        <textarea id = "CommentText" placeholder = "@Resources.Resources.LeaveComment"></textarea>
+        <input type="button" value="@Resources.Resources.Send" onclick="PostComment();" />
+    </div>
+    <div id="LoadingElement" style="display: none">
+        <img src="~/Content/images/Loading.gif" />
+    </div>
+    <div id="ImageComments">
+    </div>
+}

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="4bca693921a846a1acc3ffd9435b9b04" Name="Диаграмма1">
+        <EntityTypeShape EntityType="DatabaseModel.Comment" Width="1.5" PointX="7.5" PointY="2.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DatabaseModel.Image" Width="1.5" PointX="5.25" PointY="5.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DatabaseModel.Role" Width="1.5" PointX="0.75" PointY="2.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DatabaseModel.Tag" Width="1.5" PointX="7.5" PointY="6.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DatabaseModel.User" Width="1.5" PointX="3" PointY="2.125" IsExpanded="true" />
+        <AssociationConnector Association="DatabaseModel.FK__Comment__ImageId__664B26CC" ManuallyRouted="false" />
+        <AssociationConnector Association="DatabaseModel.FK__Comment__UserId__65570293" ManuallyRouted="false" />
+        <AssociationConnector Association="DatabaseModel.FK__Image__UserId__3F3159AB" ManuallyRouted="false" />
+        <AssociationConnector Association="DatabaseModel.ImagesInTags" ManuallyRouted="false" />
+        <AssociationConnector Association="DatabaseModel.UsersInRoles" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

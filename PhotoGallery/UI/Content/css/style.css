@@ -1,0 +1,268 @@
+﻿.top-bar-padding {
+    padding: 0% 3% 0% 3%;
+}
+
+.top-bar-min-height {
+    min-height: 80px;
+}
+
+.footer-bar-min-height {
+    min-height: 70px;
+}
+
+.background-color-dark {
+    background: #111111;
+}
+
+.background-color-blue {
+    background: #2ba6cb;
+}
+
+.row div .button {
+    color: white;
+}
+
+.color-green {
+    color: green;
+}
+
+.show-userName {
+    padding: 0 15px;
+    line-height: 45px;
+    background: #111111;
+    color: #ffffff;
+}
+
+.row-min-height {
+    min-height: 10em;
+}
+
+.row div {
+    position: relative;
+    text-align: right;
+    padding-right: 3%;
+    top: 25px;
+    color: #ffffff;
+}
+
+.row div a {
+    color: #805050;
+}
+
+.arrowImageContainer {
+    height: 50px;
+    width: 50px;
+}
+
+.user-information-container {
+    display: inline-block;
+    margin-left: 5%;
+    margin-right: 8%;
+}
+
+.roleName-container {
+    display: inline-block;
+    margin-right: 5px;
+}
+
+.parrentId {
+    color: orange;
+    text-decoration: underline;
+}
+
+.panel-padding {
+    padding: 1.25em;
+}
+
+.panel-padding-height {
+    min-height: 400px;
+}
+
+.button-bar-height {
+    min-height: 150px;
+}
+
+.image-review-size {
+    margin-top: 1%;
+    margin-right: 2%;
+    width: 22.5%;
+    height: 22.5%;
+}
+
+.image-show-size {
+    width: 50%;
+    height: 50%;
+}
+
+.image-search-result-size {
+    margin-top: 1%;
+    margin-right: 2%;
+    width: 190px;
+    height: 110px;
+}
+
+.container-center {
+    text-align: center;
+}
+
+.container-right {
+    text-align: right;
+}
+
+.selected-tag {
+    background: #d3c6c6;
+}
+
+.search-tag {
+    margin: 0px;
+    padding: 2px;
+    font-size: 11px;
+}
+
+.background-dark {
+    left: 0;
+    top: 0;
+    position: absolute;
+    background: #000;
+    opacity: 0.7;
+    z-index: 999;
+    display: none;
+    height: 100%;
+    width: 100%;
+}
+
+.search-form {
+    display: none;
+    z-index: 9999;
+    border: 1px solid #444;
+    background-color: #FEFEFE;
+    border-radius: 10px;
+    padding: 15px 20px;
+    height: 480px;
+    width: 660px;
+}
+
+.addPhoto-form {
+    display: none;
+    z-index: 9999;
+    border: 1px solid #444;
+    background-color: #FEFEFE;
+    border-radius: 10px;
+    padding: 15px 20px;
+    height: 660px;
+    width: 660px;
+}
+
+.addTag-form {
+    display: none;
+    z-index: 9999;
+    border: 1px solid #444;
+    background-color: #FEFEFE;
+    border-radius: 10px;
+    padding: 15px 20px;
+    height: 240px;
+    width: 330px;
+}
+
+.logOn-form {
+    display: none;
+    z-index: 9999;
+    border: 1px solid #444;
+    background-color: #FEFEFE;
+    border-radius: 10px;
+    padding: 15px 20px;
+    height: 480px;
+    width: 660px;
+}
+
+.register-form {
+    display: none;
+    z-index: 9999;
+    border: 1px solid #444;
+    background-color: #FEFEFE;
+    border-radius: 10px;
+    padding: 15px 20px;
+    height: 480px;
+    width: 660px;
+}
+
+.confirm-form {
+    display: none;
+    z-index: 9999;
+    border: 1px solid #444;
+    background-color: #FEFEFE;
+    border-radius: 10px;
+    padding: 15px 20px;
+    height: 160px;
+    width: 220px;
+}
+
+.changeUserRole-form {
+    display: none;
+    z-index: 9999;
+    border: 1px solid #444;
+    background-color: #FEFEFE;
+    border-radius: 10px;
+    padding: 15px 20px;
+    height: 240px;
+    width: 330px;
+}
+
+.position-right {
+    float: right;
+}
+
+.ul-style-none {
+    list-style-type: none;
+}
+
+.button-tag-group {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 620px;
+}
+
+.button-tag-group li {
+    display: inline;
+}
+
+.button-tag-group .inline-list-none li {
+    display: inline
+}
+
+.button-margin-top {
+    margin-top: 20px;
+}
+
+.add-photo-tag {
+    float: left;
+    text-decoration: none;
+    text-align: center;
+    padding: 0;
+    font-size: 13px;
+    margin: 5px;
+}
+
+.add-tag {
+    float: left;
+    text-decoration: none;
+    text-align: center;
+    padding: 0;
+    font-size: 13px;
+    margin: 5px;
+}
+
+.add-role {
+    float: left;
+    text-decoration: none;
+    text-align: center;
+    padding: 0;
+    font-size: 13px;
+    margin: 5px;
+}
+
+.inline-list-none {
+    display: inline-block;
+    list-style-type: none;
+}

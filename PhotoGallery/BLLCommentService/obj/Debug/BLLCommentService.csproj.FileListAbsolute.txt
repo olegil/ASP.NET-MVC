@@ -1,0 +1,24 @@
+D:\Mikalai Sivokha\Projects\PhotoGallery\BLLCommentService\bin\Debug\BLLCommentService.dll
+D:\Mikalai Sivokha\Projects\PhotoGallery\BLLCommentService\bin\Debug\BLLCommentService.pdb
+D:\Mikalai Sivokha\Projects\PhotoGallery\BLLCommentService\bin\Debug\BLLEntities.dll
+D:\Mikalai Sivokha\Projects\PhotoGallery\BLLCommentService\bin\Debug\DALEntities.dll
+D:\Mikalai Sivokha\Projects\PhotoGallery\BLLCommentService\bin\Debug\EntityFramework.dll
+D:\Mikalai Sivokha\Projects\PhotoGallery\BLLCommentService\bin\Debug\BLLEntities.pdb
+D:\Mikalai Sivokha\Projects\PhotoGallery\BLLCommentService\bin\Debug\DALEntities.pdb
+D:\Mikalai Sivokha\Projects\PhotoGallery\BLLCommentService\bin\Debug\EntityFramework.xml
+D:\Mikalai Sivokha\Projects\PhotoGallery\BLLCommentService\bin\Debug\ru\EntityFramework.resources.dll
+D:\Mikalai Sivokha\Projects\PhotoGallery\BLLCommentService\obj\Debug\BLLCommentService.csprojResolveAssemblyReference.cache
+D:\Mikalai Sivokha\Projects\PhotoGallery\BLLCommentService\obj\Debug\BLLCommentService.dll
+D:\Mikalai Sivokha\Projects\PhotoGallery\BLLCommentService\obj\Debug\BLLCommentService.pdb
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\BLLCommentService\bin\Debug\BLLCommentService.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\BLLCommentService\bin\Debug\BLLCommentService.pdb
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\BLLCommentService\bin\Debug\BLLEntities.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\BLLCommentService\bin\Debug\DALEntities.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\BLLCommentService\bin\Debug\EntityFramework.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\BLLCommentService\bin\Debug\BLLEntities.pdb
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\BLLCommentService\bin\Debug\DALEntities.pdb
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\BLLCommentService\bin\Debug\EntityFramework.xml
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\BLLCommentService\bin\Debug\ru\EntityFramework.resources.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\BLLCommentService\obj\Debug\BLLCommentService.csprojResolveAssemblyReference.cache
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\BLLCommentService\obj\Debug\BLLCommentService.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\BLLCommentService\obj\Debug\BLLCommentService.pdb

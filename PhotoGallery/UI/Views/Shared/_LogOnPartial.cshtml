@@ -1,0 +1,38 @@
+﻿@if (Request.IsAuthenticated)
+{
+    <ul class="right">
+        <li>
+            @using (Html.BeginForm("Authenticate", "Account", FormMethod.Post, new { id = "openid_form" }))
+            {
+                <div id="openid_btns">
+                </div>
+            }
+        </li>
+        <li class="show-userName">
+            @User.Identity.Name
+        </li>
+        <li>
+            @Html.ActionLink(Resources.Resources.LogOff, "LogOff", new { controller = "Account", returnUrl = HttpContext.Current.Request.RawUrl })
+        </li>
+    </ul>
+}
+else
+{
+    <ul class="right">
+        <li>
+            @using (Html.BeginForm("Authenticate", "Account", FormMethod.Post, new { id = "openid_form" }))
+            {
+                <div id="openid_btns">
+                </div>
+            }
+        </li>
+        <li>
+            <a onclick="createLogOnForm();">@Resources.Resources.LogOn</a>
+            @*@Html.ActionLink(Resources.Resources.LogOn, "LogOn", new { controller = "Account", returnUrl = HttpContext.Current.Request.RawUrl })*@
+        </li>
+        <li>
+            @*<a onclick="createRegisterForm();">@Resources.Resources.Registration</a>*@
+            @Html.ActionLink(Resources.Resources.Registration, "Register", "Account")
+        </li>        
+    </ul>
+}

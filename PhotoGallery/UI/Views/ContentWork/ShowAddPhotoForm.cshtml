@@ -1,0 +1,25 @@
+﻿@{
+    Layout = null;
+}
+<script src="~/Scripts/addPhoto.js"></script>
+<p>
+    <a class="position-right" href="#" onclick="closeForm('#workForm', 'addPhoto-form');">x</a>
+</p>
+@using (Html.BeginForm("UploadImage", "ContentWork", FormMethod.Post, new { enctype = "multipart/form-data", id = "ImgForm", name = "ImgForm", target = "UploadTarget" }))
+{
+    <input type="file" value="Browse images" multiple="multiple" name="files" id="files" />  
+    @Html.TextBox("TagNames", "", new { style="display: none", id="tagNamesTextBox" });  
+}
+<ul class="button-tag-group">
+    <li><input type="button" class="button" value="Show Image" onclick="$('#ImgForm').submit();"></li>
+    <li><a class="button" onclick="savePhoto();">Save</a></li>
+    <li><ul class="inline-list-none" id="addPhotoSelectedTags"></ul></li>
+</ul>
+
+<iframe id="UploadTarget" name="UploadTarget" style="display: block; min-width: 620px; min-height: 350px;"></iframe>
+<ul class="title-area ul-style-none" id="addPhotoTagSearchList">
+    <li>
+        <input type="text" style="margin: 0px;" id="addPhotoTagTextBox" onblur="ClearAddPhotoTagSearchResult();" placeholder="@Resources.Resources.Search" />
+    </li>
+    <li id="addPhotoTags"></li>
+</ul>

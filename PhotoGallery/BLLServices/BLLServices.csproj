@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{71505FDE-BCF8-4DD0-B4FA-F1045B7D35E7}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BLLServices</RootNamespace>
+    <AssemblyName>BLLServices</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AutoSuggestBLLService.cs" />
+    <Compile Include="CommentBLLService.cs" />
+    <Compile Include="ImageBLLService.cs" />
+    <Compile Include="RoleBLLService.cs" />
+    <Compile Include="TagBLLService.cs" />
+    <Compile Include="UserBLLService.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BLLCommentService\BLLHelpServices.csproj">
+      <Project>{b76874b4-7335-4e0d-ae11-73fd53e23a2c}</Project>
+      <Name>BLLHelpServices</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BLLEntities\BLLEntities.csproj">
+      <Project>{da29678e-d5bd-4b1f-bf30-377638912ecf}</Project>
+      <Name>BLLEntities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BLLTransform\BLLTransform.csproj">
+      <Project>{7c0c7202-48d5-443e-bbfa-d7fd408954a4}</Project>
+      <Name>BLLTransform</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DALEntities\DALEntities.csproj">
+      <Project>{6b3d3a6b-6d6d-4396-8b9a-69332e11e39b}</Project>
+      <Name>DALEntities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DALFactory\DALFactory.csproj">
+      <Project>{f7b98e50-0440-4eec-be8a-7f584e0ab6d6}</Project>
+      <Name>DALFactory</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DALInterface\DALInterface.csproj">
+      <Project>{0e69ebd2-3543-4733-b14b-5b55c6a2678b}</Project>
+      <Name>DALInterface</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

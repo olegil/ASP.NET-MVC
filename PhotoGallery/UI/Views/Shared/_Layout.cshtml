@@ -1,0 +1,113 @@
+﻿@using UI.Helpers
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewBag.Title</title>
+    <link href="~/Content/css/style.css" rel="stylesheet" />
+    <link href="~/Content/css/foundation.css" rel="stylesheet" />
+    <link href="~/Content/css/openid.css" rel="stylesheet" />
+    <script src="~/Scripts/jquery-1.7.1.min.js"></script>
+    <script src="~/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+    <script src="~/Scripts/jquery-ui-1.8.20.min.js"></script>
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+    <script src="~/Scripts/openid-providers.js"></script>
+    <script src="~/Scripts/openid-jquery.js"></script>
+    <script src="~/Scripts/search.js"></script>
+    <script src="~/Scripts/showSearchResults.js"></script>
+    <script src="~/Scripts/showForm.js"></script>
+    <script src="~/Scripts/account.js"></script>
+    <script src="~/Scripts/admin.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            openid.init('openid_identifier');
+        });
+    </script>
+</head>
+
+<header>
+    @Html.ValidationSummary(true)
+    <nav class="top-bar top-bar-padding">
+        <section class="top-bar-section">
+            <ul class="title-area">
+                <li class="name">
+                    <h1>@Html.ActionLink(Resources.Resources.HomePage, "Index", "Home")</h1>
+                </li>
+                @if (ViewHelper.IsInRole(User.Identity.Name, "Admin"))
+                {
+                    <li class="name">
+                        <h1>@Html.ActionLink(Resources.Resources.UsersPage, "ShowUsers", "Admin")</h1>
+                    </li>
+                }
+                @*<li>
+                    @{Html.RenderAction("ImageSummary", "Home");}
+                </li>*@
+            </ul>
+            <ul class="right">
+                <li>
+                    @Html.ActionLink("rus", "SetCulture", new { controller = "Account", culture = "ru-RU" }, null)
+                </li>
+                <li>
+                    @Html.ActionLink("eng", "SetCulture", new { controller = "Account", culture = "en-US" }, null)
+                </li>
+            </ul>
+        </section>
+    </nav>
+    <nav class="top-bar top-bar-padding top-bar-min-height">
+        <ul class="title-area" id="SearchList">
+            <li>
+                <input type="text" id="SearchTextBox" onblur="ClearSearchResult();" placeholder="@Resources.Resources.Search" />
+            </li>
+            <li id="SearchTags"></li>
+        </ul>
+        <section class="top-bar-section">
+            @Html.Partial("_LogOnPartial")
+        </section>
+    </nav>
+    <div class="row background-color-blue row-min-height">
+        <div class="container-right">
+            @if (ViewHelper.IsInRole(User.Identity.Name, "User"))
+            {
+                <a class="button" onclick="createAddPhotoForm();">@Resources.Resources.AddPhoto</a>
+            }
+            @if (ViewHelper.IsInRole(User.Identity.Name, "Administrator"))
+            {
+                <a class="button" onclick="createAddTagForm();">@Resources.Resources.AddTag</a>
+            }
+        </div>
+    </div>
+    <div id="workForm"></div>
+    <div id="background" class="background-dark"></div>
+</header>
+
+<body>
+    @RenderBody()
+</body>
+
+<footer>
+    <nav class="top-bar top-bar-padding footer-bar-min-height">
+        <section class="top-bar-section">
+            <ul class="title-area">
+                <li class="name">
+                    <h1>@Html.ActionLink(Resources.Resources.HomePage, "Index", "Home")</h1>
+                </li>
+                @if (ViewHelper.IsInRole(User.Identity.Name, "Admin"))
+                {
+                    <li class="name">
+                        <h1>@Html.ActionLink(Resources.Resources.UsersPage, "ShowUsers", "Admin")</h1>
+                    </li>
+                }
+            </ul>
+            <ul class="right">
+                <li>
+                    @Html.ActionLink("rus", "SetCulture", new { controller = "Account", culture = "ru-RU" }, null)
+                </li>
+                <li>
+                    @Html.ActionLink("eng", "SetCulture", new { controller = "Account", culture = "en-US" }, null)
+                </li>
+            </ul>
+        </section>
+    </nav>
+</footer>
+</html>

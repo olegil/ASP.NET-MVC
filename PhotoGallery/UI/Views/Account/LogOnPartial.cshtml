@@ -1,0 +1,30 @@
+﻿@model UI.Models.LogOnModel
+
+@{
+    Layout = null;
+}
+
+
+   
+    <div class="editor-label">
+        @Html.Label(Resources.Resources.UserName)
+    </div>
+    <div class="editor-field">
+        @Html.TextBoxFor(m => m.UserName)
+        @Html.ValidationMessageFor(m => m.UserName)
+    </div>
+    <div class="editor-label">
+        @Html.Label(Resources.Resources.Password)
+    </div>
+    <div class="editor-field">
+        @Html.PasswordFor(m => m.Password)
+        @Html.ValidationMessageFor(m => m.Password)
+    </div>
+    <div class="editor-field">
+        @Html.CheckBoxFor(m => m.RememberMe)
+    </div>
+    <div class="editor-label">
+        @Html.Label(Resources.Resources.RememberMe, new { @class = "checkbox" })
+    </div>
+    <input type="submit" class="btn" value=@Resources.Resources.LogOn />
+

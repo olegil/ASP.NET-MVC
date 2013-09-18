@@ -1,0 +1,70 @@
+C:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\BLLEntities\bin\Debug\BLLEntities.dll
+C:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\BLLEntities\bin\Debug\BLLEntities.pdb
+C:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\BLLEntities\obj\Debug\BLLEntities.dll
+C:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\BLLEntities\obj\Debug\BLLEntities.pdb
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\BLLEntities\obj\Debug\BLLEntities.csprojResolveAssemblyReference.cache
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\BLLEntities\bin\Debug\DALEntities.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\BLLEntities\bin\Debug\EntityFramework.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\BLLEntities\bin\Debug\DALEntities.pdb
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\BLLEntities\bin\Debug\EntityFramework.xml
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\BLLEntities\bin\Debug\ru\EntityFramework.resources.dll
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\BLLEntities\obj\Debug\BLLEntities.csprojResolveAssemblyReference.cache
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\BLLEntities\obj\Debug\BLLEntities.dll
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\BLLEntities\obj\Debug\BLLEntities.pdb
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\BLLEntities\bin\Debug\BLLEntities.dll
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\BLLEntities\bin\Debug\BLLEntities.pdb
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\BLLEntities\bin\Debug\DALEntities.dll
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\BLLEntities\bin\Debug\EntityFramework.dll
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\BLLEntities\bin\Debug\DALEntities.pdb
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\BLLEntities\bin\Debug\EntityFramework.xml
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\BLLEntities\bin\Debug\ru\EntityFramework.resources.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\BLLEntities\bin\Debug\BLLEntities.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\BLLEntities\bin\Debug\BLLEntities.pdb
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\BLLEntities\bin\Debug\DALEntities.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\BLLEntities\bin\Debug\EntityFramework.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\BLLEntities\bin\Debug\DALEntities.pdb
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\BLLEntities\bin\Debug\EntityFramework.xml
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\BLLEntities\bin\Debug\ru\EntityFramework.resources.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\BLLEntities\obj\Debug\BLLEntities.csprojResolveAssemblyReference.cache
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\BLLEntities\obj\Debug\BLLEntities.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\BLLEntities\obj\Debug\BLLEntities.pdb
+D:\Mikalai Sivokha\Projects\PhotoGallery\BLLEntities\bin\Debug\BLLEntities.dll
+D:\Mikalai Sivokha\Projects\PhotoGallery\BLLEntities\bin\Debug\BLLEntities.pdb
+D:\Mikalai Sivokha\Projects\PhotoGallery\BLLEntities\bin\Debug\DALEntities.dll
+D:\Mikalai Sivokha\Projects\PhotoGallery\BLLEntities\bin\Debug\EntityFramework.dll
+D:\Mikalai Sivokha\Projects\PhotoGallery\BLLEntities\bin\Debug\DALEntities.pdb
+D:\Mikalai Sivokha\Projects\PhotoGallery\BLLEntities\bin\Debug\EntityFramework.xml
+D:\Mikalai Sivokha\Projects\PhotoGallery\BLLEntities\bin\Debug\ru\EntityFramework.resources.dll
+D:\Mikalai Sivokha\Projects\PhotoGallery\BLLEntities\obj\Debug\BLLEntities.csprojResolveAssemblyReference.cache
+D:\Mikalai Sivokha\Projects\PhotoGallery\BLLEntities\obj\Debug\BLLEntities.dll
+D:\Mikalai Sivokha\Projects\PhotoGallery\BLLEntities\obj\Debug\BLLEntities.pdb
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\BLLEntities\bin\Debug\BLLEntities.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\BLLEntities\bin\Debug\BLLEntities.pdb
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\BLLEntities\bin\Debug\DALEntities.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\BLLEntities\bin\Debug\EntityFramework.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\BLLEntities\bin\Debug\DALEntities.pdb
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\BLLEntities\bin\Debug\EntityFramework.xml
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\BLLEntities\bin\Debug\ru\EntityFramework.resources.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\BLLEntities\obj\Debug\BLLEntities.csprojResolveAssemblyReference.cache
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\BLLEntities\obj\Debug\BLLEntities.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\BLLEntities\obj\Debug\BLLEntities.pdb
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\BLLEntities\bin\Debug\BLLEntities.dll
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\BLLEntities\bin\Debug\BLLEntities.pdb
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\BLLEntities\bin\Debug\DALEntities.dll
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\BLLEntities\bin\Debug\EntityFramework.dll
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\BLLEntities\bin\Debug\DALEntities.pdb
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\BLLEntities\bin\Debug\EntityFramework.xml
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\BLLEntities\bin\Debug\ru\EntityFramework.resources.dll
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\BLLEntities\obj\Debug\BLLEntities.csprojResolveAssemblyReference.cache
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\BLLEntities\obj\Debug\BLLEntities.dll
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\BLLEntities\obj\Debug\BLLEntities.pdb
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\BLLEntities\bin\Debug\BLLEntities.dll
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\BLLEntities\bin\Debug\BLLEntities.pdb
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\BLLEntities\bin\Debug\DALEntities.dll
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\BLLEntities\bin\Debug\EntityFramework.dll
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\BLLEntities\bin\Debug\DALEntities.pdb
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\BLLEntities\bin\Debug\EntityFramework.xml
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\BLLEntities\bin\Debug\ru\EntityFramework.resources.dll
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\BLLEntities\obj\Debug\BLLEntities.csprojResolveAssemblyReference.cache
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\BLLEntities\obj\Debug\BLLEntities.dll
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\BLLEntities\obj\Debug\BLLEntities.pdb

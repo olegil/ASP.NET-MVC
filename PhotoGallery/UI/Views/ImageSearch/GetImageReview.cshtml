@@ -1,0 +1,14 @@
+﻿@model UI.Models.ImageReview
+@{
+    Layout = null;
+}
+@if (Model != null)
+{
+    int i = 0;
+    foreach (var image in Model.Images)
+    {
+        <a class="th radius image-review-size" href="#" onclick="OpenImage(@image.ImageId, (@(i++) + (parseInt(document.getElementById('ImagesOnPageCount').value, 10) * parseInt(document.getElementById('PageIndex').value, 10))))">
+            <img src="@image.ImagePicture" />
+        </a>         
+    }
+}

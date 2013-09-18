@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Хранилище DatabaseModel" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="Хранилище DatabaseModelContainer">
+    <EntitySet Name="Comment" EntityType="Хранилище DatabaseModel.Comment" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Image" EntityType="Хранилище DatabaseModel.Image" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="ImagesInTags" EntityType="Хранилище DatabaseModel.ImagesInTags" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Role" EntityType="Хранилище DatabaseModel.Role" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Tag" EntityType="Хранилище DatabaseModel.Tag" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="User" EntityType="Хранилище DatabaseModel.User" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="UsersInRoles" EntityType="Хранилище DatabaseModel.UsersInRoles" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="FK__Comment__ImageId__664B26CC" Association="Хранилище DatabaseModel.FK__Comment__ImageId__664B26CC">
+      <End Role="Image" EntitySet="Image" />
+      <End Role="Comment" EntitySet="Comment" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Comment__UserId__65570293" Association="Хранилище DatabaseModel.FK__Comment__UserId__65570293">
+      <End Role="User" EntitySet="User" />
+      <End Role="Comment" EntitySet="Comment" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Image__UserId__3F3159AB" Association="Хранилище DatabaseModel.FK__Image__UserId__3F3159AB">
+      <End Role="User" EntitySet="User" />
+      <End Role="Image" EntitySet="Image" />
+    </AssociationSet>
+    <AssociationSet Name="FK__ImagesInT__Image__7A521F79" Association="Хранилище DatabaseModel.FK__ImagesInT__Image__7A521F79">
+      <End Role="Image" EntitySet="Image" />
+      <End Role="ImagesInTags" EntitySet="ImagesInTags" />
+    </AssociationSet>
+    <AssociationSet Name="FK__ImagesInT__TagId__7B4643B2" Association="Хранилище DatabaseModel.FK__ImagesInT__TagId__7B4643B2">
+      <End Role="Tag" EntitySet="Tag" />
+      <End Role="ImagesInTags" EntitySet="ImagesInTags" />
+    </AssociationSet>
+    <AssociationSet Name="FK__UsersInRo__RoleI__5A1A5A11" Association="Хранилище DatabaseModel.FK__UsersInRo__RoleI__5A1A5A11">
+      <End Role="Role" EntitySet="Role" />
+      <End Role="UsersInRoles" EntitySet="UsersInRoles" />
+    </AssociationSet>
+    <AssociationSet Name="FK__UsersInRo__UserI__2C1E8537" Association="Хранилище DatabaseModel.FK__UsersInRo__UserI__2C1E8537">
+      <End Role="User" EntitySet="User" />
+      <End Role="UsersInRoles" EntitySet="UsersInRoles" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Comment">
+    <Key>
+      <PropertyRef Name="CommentId" />
+    </Key>
+    <Property Name="CommentId" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="CommentNumber" Type="int" Nullable="false" />
+    <Property Name="CommentParentNumber" Type="int" Nullable="false" />
+    <Property Name="UserId" Type="int" Nullable="false" />
+    <Property Name="ImageId" Type="int" Nullable="false" />
+    <Property Name="CommentText" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="CommentDate" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Image">
+    <Key>
+      <PropertyRef Name="ImageId" />
+    </Key>
+    <Property Name="ImageId" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="UserId" Type="int" Nullable="false" />
+    <Property Name="ImagePicture" Type="varbinary(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ImagesInTags">
+    <Key>
+      <PropertyRef Name="ImageId" />
+      <PropertyRef Name="TagId" />
+    </Key>
+    <Property Name="ImageId" Type="int" Nullable="false" />
+    <Property Name="TagId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Role">
+    <Key>
+      <PropertyRef Name="RoleId" />
+    </Key>
+    <Property Name="RoleId" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="RoleName" Type="nvarchar" Nullable="false" MaxLength="256" />
+  </EntityType>
+  <EntityType Name="Tag">
+    <Key>
+      <PropertyRef Name="TagId" />
+    </Key>
+    <Property Name="TagId" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="TagName" Type="nvarchar" Nullable="false" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="UserId" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="UserLogin" Type="nvarchar" Nullable="false" MaxLength="20" />
+    <Property Name="UserPassword" Type="nvarchar" Nullable="false" MaxLength="128" />
+    <Property Name="UserEmail" Type="nvarchar" Nullable="false" MaxLength="100" />
+    <Property Name="UserOpenID" Type="nvarchar" MaxLength="250" />
+    <Property Name="UserCreateDate" Type="datetime" Nullable="false" />
+    <Property Name="UserLastLoginDate" Type="datetime" Nullable="false" />
+    <Property Name="UserIsActivated" Type="bit" Nullable="false" />
+    <Property Name="UserIsActive" Type="bit" Nullable="false" />
+    <Property Name="UserActivateKey" Type="nvarchar" MaxLength="128" />
+  </EntityType>
+  <EntityType Name="UsersInRoles">
+    <Key>
+      <PropertyRef Name="UserId" />
+      <PropertyRef Name="RoleId" />
+    </Key>
+    <Property Name="UserId" Type="int" Nullable="false" />
+    <Property Name="RoleId" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="FK__Comment__ImageId__664B26CC">
+    <End Role="Image" Type="Хранилище DatabaseModel.Image" Multiplicity="1" />
+    <End Role="Comment" Type="Хранилище DatabaseModel.Comment" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Image">
+        <PropertyRef Name="ImageId" />
+      </Principal>
+      <Dependent Role="Comment">
+        <PropertyRef Name="ImageId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Comment__UserId__65570293">
+    <End Role="User" Type="Хранилище DatabaseModel.User" Multiplicity="1" />
+    <End Role="Comment" Type="Хранилище DatabaseModel.Comment" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="UserId" />
+      </Principal>
+      <Dependent Role="Comment">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Image__UserId__3F3159AB">
+    <End Role="User" Type="Хранилище DatabaseModel.User" Multiplicity="1" />
+    <End Role="Image" Type="Хранилище DatabaseModel.Image" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="UserId" />
+      </Principal>
+      <Dependent Role="Image">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__ImagesInT__Image__7A521F79">
+    <End Role="Image" Type="Хранилище DatabaseModel.Image" Multiplicity="1" />
+    <End Role="ImagesInTags" Type="Хранилище DatabaseModel.ImagesInTags" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Image">
+        <PropertyRef Name="ImageId" />
+      </Principal>
+      <Dependent Role="ImagesInTags">
+        <PropertyRef Name="ImageId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__ImagesInT__TagId__7B4643B2">
+    <End Role="Tag" Type="Хранилище DatabaseModel.Tag" Multiplicity="1" />
+    <End Role="ImagesInTags" Type="Хранилище DatabaseModel.ImagesInTags" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tag">
+        <PropertyRef Name="TagId" />
+      </Principal>
+      <Dependent Role="ImagesInTags">
+        <PropertyRef Name="TagId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__UsersInRo__RoleI__5A1A5A11">
+    <End Role="Role" Type="Хранилище DatabaseModel.Role" Multiplicity="1" />
+    <End Role="UsersInRoles" Type="Хранилище DatabaseModel.UsersInRoles" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Role">
+        <PropertyRef Name="RoleId" />
+      </Principal>
+      <Dependent Role="UsersInRoles">
+        <PropertyRef Name="RoleId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__UsersInRo__UserI__2C1E8537">
+    <End Role="User" Type="Хранилище DatabaseModel.User" Multiplicity="1" />
+    <End Role="UsersInRoles" Type="Хранилище DatabaseModel.UsersInRoles" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="UserId" />
+      </Principal>
+      <Dependent Role="UsersInRoles">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

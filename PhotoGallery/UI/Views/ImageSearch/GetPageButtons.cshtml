@@ -1,0 +1,34 @@
+﻿@{
+    Layout = null;
+}
+<script type='text/javascript'>
+    $(function () {
+        ChangeImageCount();
+        ChangeLastPageIndex();           
+    });
+
+    function ChangeImageCount() {
+        document.getElementById('ImageCount').value = @(ViewBag.ImageCount - 1);
+    }
+
+    function ChangeLastPageIndex() {
+        document.getElementById('LastPageIndex').value = @ViewBag.PageCount;
+    }
+</script>
+<ul class="button-group" style="margin:0 43% 0 43%;  width:14%;">
+    <li><a href="#" onclick="ChangeImagePage('prev')"><img src="~/Content/images/left-arrow-small.png"/></a></li>
+    @if (ViewBag.PageCount <= 5)
+    {
+        for (int i = 1; i <= ViewBag.PageCount; i++)
+        {
+            <li><a href="#" class="small button" onclick="ChangeImagePage(@(i - 1));"><h5>@i</h5></a></li>
+        }
+    }
+    else
+    {
+        <li><a href="#" class="small button" onclick="ChangeImagePage(0);"><h5>1</h5></a></li>
+        <li><a href="#" class="small button" onclick="ChangeImagePage(1);"><h5>2</h5></a></li>
+        <li><a href="#" class="small button" onclick="ChangeImagePage(2);"><h5>3</h5></a></li>
+    }
+    <li><a href="#" onclick="ChangeImagePage('next')"><img src="~/Content/images/right-arrow-small.png"/></a></li>
+</ul>

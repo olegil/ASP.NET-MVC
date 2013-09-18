@@ -1,0 +1,17 @@
+﻿@{
+    Layout = null;
+}
+<script src="~/Scripts/addTag.js"></script>
+<p>
+    <a class="position-right" href="#" onclick="closeForm('#workForm', 'addTag-form');">x</a>
+</p>
+@Html.TextBox("TagNames", "", new { style="display: none", id="addTagTagNamesTextBox" })
+<ul class="title-area ul-style-none" id="addTagList">
+    <li>
+        <input type="text" style="margin: 0px;" id="addTagTextBox" placeholder="Enter tag name" />
+    </li>
+</ul>
+<ul class="button-tag-group">
+    <li><a class="button" onclick="saveTags();">Save</a></li>
+    <li><ul class="inline-list-none" id="addEnteredTag"></ul></li>
+</ul>

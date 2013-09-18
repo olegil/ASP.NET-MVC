@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DatabaseModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="DatabaseEntities" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="Comment" EntityType="DatabaseModel.Comment" />
+    <EntitySet Name="Image" EntityType="DatabaseModel.Image" />
+    <EntitySet Name="Role" EntityType="DatabaseModel.Role" />
+    <EntitySet Name="Tag" EntityType="DatabaseModel.Tag" />
+    <EntitySet Name="User" EntityType="DatabaseModel.User" />
+    <AssociationSet Name="FK__Comment__ImageId__664B26CC" Association="DatabaseModel.FK__Comment__ImageId__664B26CC">
+      <End Role="Image" EntitySet="Image" />
+      <End Role="Comment" EntitySet="Comment" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Comment__UserId__65570293" Association="DatabaseModel.FK__Comment__UserId__65570293">
+      <End Role="User" EntitySet="User" />
+      <End Role="Comment" EntitySet="Comment" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Image__UserId__3F3159AB" Association="DatabaseModel.FK__Image__UserId__3F3159AB">
+      <End Role="User" EntitySet="User" />
+      <End Role="Image" EntitySet="Image" />
+    </AssociationSet>
+    <AssociationSet Name="ImagesInTags" Association="DatabaseModel.ImagesInTags">
+      <End Role="Image" EntitySet="Image" />
+      <End Role="Tag" EntitySet="Tag" />
+    </AssociationSet>
+    <AssociationSet Name="UsersInRoles" Association="DatabaseModel.UsersInRoles">
+      <End Role="Role" EntitySet="Role" />
+      <End Role="User" EntitySet="User" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Comment">
+    <Key>
+      <PropertyRef Name="CommentId" />
+    </Key>
+    <Property Name="CommentId" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="CommentNumber" Type="Int32" Nullable="false" />
+    <Property Name="CommentParentNumber" Type="Int32" Nullable="false" />
+    <Property Name="UserId" Type="Int32" Nullable="false" />
+    <Property Name="ImageId" Type="Int32" Nullable="false" />
+    <Property Name="CommentText" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="CommentDate" Type="DateTime" Nullable="false" Precision="3" />
+    <NavigationProperty Name="Image" Relationship="DatabaseModel.FK__Comment__ImageId__664B26CC" FromRole="Comment" ToRole="Image" />
+    <NavigationProperty Name="User" Relationship="DatabaseModel.FK__Comment__UserId__65570293" FromRole="Comment" ToRole="User" />
+  </EntityType>
+  <EntityType Name="Image">
+    <Key>
+      <PropertyRef Name="ImageId" />
+    </Key>
+    <Property Name="ImageId" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="UserId" Type="Int32" Nullable="false" />
+    <Property Name="ImagePicture" Type="Binary" Nullable="false" MaxLength="Max" FixedLength="false" />
+    <NavigationProperty Name="Comment" Relationship="DatabaseModel.FK__Comment__ImageId__664B26CC" FromRole="Image" ToRole="Comment" />
+    <NavigationProperty Name="User" Relationship="DatabaseModel.FK__Image__UserId__3F3159AB" FromRole="Image" ToRole="User" />
+    <NavigationProperty Name="Tag" Relationship="DatabaseModel.ImagesInTags" FromRole="Image" ToRole="Tag" />
+  </EntityType>
+  <EntityType Name="Role">
+    <Key>
+      <PropertyRef Name="RoleId" />
+    </Key>
+    <Property Name="RoleId" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="RoleName" Type="String" Nullable="false" MaxLength="256" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="User" Relationship="DatabaseModel.UsersInRoles" FromRole="Role" ToRole="User" />
+  </EntityType>
+  <EntityType Name="Tag">
+    <Key>
+      <PropertyRef Name="TagId" />
+    </Key>
+    <Property Name="TagId" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="TagName" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="Image" Relationship="DatabaseModel.ImagesInTags" FromRole="Tag" ToRole="Image" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="UserId" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="UserLogin" Type="String" Nullable="false" MaxLength="20" Unicode="true" FixedLength="false" />
+    <Property Name="UserPassword" Type="String" Nullable="false" MaxLength="128" Unicode="true" FixedLength="false" />
+    <Property Name="UserEmail" Type="String" Nullable="false" MaxLength="100" Unicode="true" FixedLength="false" />
+    <Property Name="UserOpenID" Type="String" MaxLength="250" Unicode="true" FixedLength="false" />
+    <Property Name="UserCreateDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="UserLastLoginDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="UserIsActivated" Type="Boolean" Nullable="false" />
+    <Property Name="UserIsActive" Type="Boolean" Nullable="false" />
+    <Property Name="UserActivateKey" Type="String" MaxLength="128" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="Comment" Relationship="DatabaseModel.FK__Comment__UserId__65570293" FromRole="User" ToRole="Comment" />
+    <NavigationProperty Name="Image" Relationship="DatabaseModel.FK__Image__UserId__3F3159AB" FromRole="User" ToRole="Image" />
+    <NavigationProperty Name="Role" Relationship="DatabaseModel.UsersInRoles" FromRole="User" ToRole="Role" />
+  </EntityType>
+  <Association Name="FK__Comment__ImageId__664B26CC">
+    <End Role="Image" Type="DatabaseModel.Image" Multiplicity="1" />
+    <End Role="Comment" Type="DatabaseModel.Comment" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Image">
+        <PropertyRef Name="ImageId" />
+      </Principal>
+      <Dependent Role="Comment">
+        <PropertyRef Name="ImageId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Comment__UserId__65570293">
+    <End Role="User" Type="DatabaseModel.User" Multiplicity="1" />
+    <End Role="Comment" Type="DatabaseModel.Comment" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="UserId" />
+      </Principal>
+      <Dependent Role="Comment">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Image__UserId__3F3159AB">
+    <End Role="User" Type="DatabaseModel.User" Multiplicity="1" />
+    <End Role="Image" Type="DatabaseModel.Image" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="UserId" />
+      </Principal>
+      <Dependent Role="Image">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="ImagesInTags">
+    <End Role="Image" Type="DatabaseModel.Image" Multiplicity="*" />
+    <End Role="Tag" Type="DatabaseModel.Tag" Multiplicity="*" />
+  </Association>
+  <Association Name="UsersInRoles">
+    <End Role="Role" Type="DatabaseModel.Role" Multiplicity="*" />
+    <End Role="User" Type="DatabaseModel.User" Multiplicity="*" />
+  </Association>
+</Schema>

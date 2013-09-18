@@ -1,0 +1,25 @@
+﻿@model UI.Models.CommentsModel
+@{
+    Layout = null;
+}
+@if (Model != null)
+{
+    foreach (var comment in Model.Comments)
+    {
+    <div class="panel panel-padding" id="@comment.CommentNumber">
+        <p>
+            @comment.UserName @comment.CommentDate.ToShortDateString() <strong class="color-green">#@comment.CommentNumber</strong> <a href="#" onclick="AddParent(@comment.CommentNumber);"><img src="~/Content/images/answer_button.png" /></a>
+        </p>
+        @if (comment.CommentParentNumber != 0)
+        {
+            <p>
+                <a title="#@comment.CommentParentNumber" class="comment-link">>>@comment.CommentParentNumber</a>
+            </p>
+        }
+        <p>
+            @comment.CommentText
+        </p>
+        <strong style="display: none">@comment.CommentNumber</strong>
+    </div>
+    }
+}

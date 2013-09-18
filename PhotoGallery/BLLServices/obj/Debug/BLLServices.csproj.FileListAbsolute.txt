@@ -1,0 +1,148 @@
+C:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\BLLServices\obj\Debug\BLLServices.csprojResolveAssemblyReference.cache
+C:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\BLLServices\bin\Debug\BLLServices.dll
+C:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\BLLServices\bin\Debug\BLLServices.pdb
+C:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\BLLServices\bin\Debug\BLLEntities.dll
+C:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\BLLServices\bin\Debug\DALEntities.dll
+C:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\BLLServices\bin\Debug\DALFactory.dll
+C:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\BLLServices\bin\Debug\DALInterface.dll
+C:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\BLLServices\bin\Debug\DALDatabase.dll
+C:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\BLLServices\bin\Debug\BLLEntities.pdb
+C:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\BLLServices\bin\Debug\DALEntities.pdb
+C:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\BLLServices\bin\Debug\DALFactory.pdb
+C:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\BLLServices\bin\Debug\DALInterface.pdb
+C:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\BLLServices\bin\Debug\DALDatabase.pdb
+C:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\BLLServices\obj\Debug\BLLServices.dll
+C:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\BLLServices\obj\Debug\BLLServices.pdb
+C:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\BLLServices\bin\Debug\EntityFramework.dll
+C:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\BLLServices\bin\Debug\EntityFramework.xml
+C:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\BLLServices\bin\Debug\ru\EntityFramework.resources.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\BLLServices\bin\Debug\BLLTransform.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\InternetAuction\BLLServices\bin\Debug\BLLTransform.pdb
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\BLLServices\obj\Debug\BLLServices.csprojResolveAssemblyReference.cache
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\BLLServices\obj\Debug\BLLServices.dll
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\BLLServices\obj\Debug\BLLServices.pdb
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\BLLServices\bin\Debug\BLLServices.dll
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\BLLServices\bin\Debug\BLLServices.pdb
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\BLLServices\bin\Debug\BLLEntities.dll
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\BLLServices\bin\Debug\BLLTransform.dll
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\BLLServices\bin\Debug\DALEntities.dll
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\BLLServices\bin\Debug\DALFactory.dll
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\BLLServices\bin\Debug\DALInterface.dll
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\BLLServices\bin\Debug\EntityFramework.dll
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\BLLServices\bin\Debug\DALDatabase.dll
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\BLLServices\bin\Debug\BLLEntities.pdb
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\BLLServices\bin\Debug\BLLTransform.pdb
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\BLLServices\bin\Debug\DALEntities.pdb
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\BLLServices\bin\Debug\DALFactory.pdb
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\BLLServices\bin\Debug\DALInterface.pdb
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\BLLServices\bin\Debug\EntityFramework.xml
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\BLLServices\bin\Debug\DALDatabase.pdb
+D:\Разное\Task1.LoginControl.Mikalai_Sivokho\BLLServices\bin\Debug\ru\EntityFramework.resources.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\BLLServices\obj\Debug\BLLServices.csprojResolveAssemblyReference.cache
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\BLLServices\obj\Debug\BLLServices.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\BLLServices\bin\Debug\BLLServices.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\BLLServices\bin\Debug\BLLServices.pdb
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\BLLServices\bin\Debug\BLLEntities.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\BLLServices\bin\Debug\BLLTransform.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\BLLServices\bin\Debug\DALEntities.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\BLLServices\bin\Debug\DALFactory.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\BLLServices\bin\Debug\DALInterface.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\BLLServices\bin\Debug\EntityFramework.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\BLLServices\bin\Debug\DALDatabase.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\BLLServices\bin\Debug\BLLEntities.pdb
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\BLLServices\bin\Debug\BLLTransform.pdb
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\BLLServices\bin\Debug\DALEntities.pdb
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\BLLServices\bin\Debug\DALFactory.pdb
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\BLLServices\bin\Debug\DALInterface.pdb
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\BLLServices\bin\Debug\EntityFramework.xml
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\BLLServices\bin\Debug\DALDatabase.pdb
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\BLLServices\bin\Debug\ru\EntityFramework.resources.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\Task1.LoginControl.Mikalai_Sivokho\BLLServices\obj\Debug\BLLServices.pdb
+D:\Mikalai Sivokha\Projects\PhotoGallery\BLLServices\bin\Debug\BLLServices.dll
+D:\Mikalai Sivokha\Projects\PhotoGallery\BLLServices\bin\Debug\BLLServices.pdb
+D:\Mikalai Sivokha\Projects\PhotoGallery\BLLServices\bin\Debug\BLLEntities.dll
+D:\Mikalai Sivokha\Projects\PhotoGallery\BLLServices\bin\Debug\BLLTransform.dll
+D:\Mikalai Sivokha\Projects\PhotoGallery\BLLServices\bin\Debug\DALEntities.dll
+D:\Mikalai Sivokha\Projects\PhotoGallery\BLLServices\bin\Debug\DALFactory.dll
+D:\Mikalai Sivokha\Projects\PhotoGallery\BLLServices\bin\Debug\DALInterface.dll
+D:\Mikalai Sivokha\Projects\PhotoGallery\BLLServices\bin\Debug\EntityFramework.dll
+D:\Mikalai Sivokha\Projects\PhotoGallery\BLLServices\bin\Debug\DALDatabase.dll
+D:\Mikalai Sivokha\Projects\PhotoGallery\BLLServices\bin\Debug\BLLEntities.pdb
+D:\Mikalai Sivokha\Projects\PhotoGallery\BLLServices\bin\Debug\BLLTransform.pdb
+D:\Mikalai Sivokha\Projects\PhotoGallery\BLLServices\bin\Debug\DALEntities.pdb
+D:\Mikalai Sivokha\Projects\PhotoGallery\BLLServices\bin\Debug\DALFactory.pdb
+D:\Mikalai Sivokha\Projects\PhotoGallery\BLLServices\bin\Debug\DALInterface.pdb
+D:\Mikalai Sivokha\Projects\PhotoGallery\BLLServices\bin\Debug\EntityFramework.xml
+D:\Mikalai Sivokha\Projects\PhotoGallery\BLLServices\bin\Debug\DALDatabase.pdb
+D:\Mikalai Sivokha\Projects\PhotoGallery\BLLServices\bin\Debug\ru\EntityFramework.resources.dll
+D:\Mikalai Sivokha\Projects\PhotoGallery\BLLServices\obj\Debug\BLLServices.csprojResolveAssemblyReference.cache
+D:\Mikalai Sivokha\Projects\PhotoGallery\BLLServices\obj\Debug\BLLServices.dll
+D:\Mikalai Sivokha\Projects\PhotoGallery\BLLServices\obj\Debug\BLLServices.pdb
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\BLLServices\bin\Debug\BLLServices.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\BLLServices\bin\Debug\BLLServices.pdb
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\BLLServices\bin\Debug\BLLEntities.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\BLLServices\bin\Debug\BLLTransform.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\BLLServices\bin\Debug\DALEntities.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\BLLServices\bin\Debug\DALFactory.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\BLLServices\bin\Debug\DALInterface.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\BLLServices\bin\Debug\EntityFramework.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\BLLServices\bin\Debug\DALDatabase.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\BLLServices\bin\Debug\BLLEntities.pdb
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\BLLServices\bin\Debug\BLLTransform.pdb
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\BLLServices\bin\Debug\DALEntities.pdb
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\BLLServices\bin\Debug\DALFactory.pdb
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\BLLServices\bin\Debug\DALInterface.pdb
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\BLLServices\bin\Debug\EntityFramework.xml
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\BLLServices\bin\Debug\DALDatabase.pdb
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\BLLServices\bin\Debug\ru\EntityFramework.resources.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\BLLServices\obj\Debug\BLLServices.csprojResolveAssemblyReference.cache
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\BLLServices\obj\Debug\BLLServices.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\BLLServices\obj\Debug\BLLServices.pdb
+D:\Mikalai Sivokha\Projects\PhotoGallery\BLLServices\bin\Debug\BLLCommentService.dll
+D:\Mikalai Sivokha\Projects\PhotoGallery\BLLServices\bin\Debug\BLLCommentService.pdb
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\BLLServices\bin\Debug\BLLCommentService.dll
+c:\Users\йцукен\Documents\Visual Studio 2012\Projects\PhotoGallery\BLLServices\bin\Debug\BLLCommentService.pdb
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\BLLServices\obj\Debug\BLLServices.csprojResolveAssemblyReference.cache
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\BLLServices\obj\Debug\BLLServices.dll
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\BLLServices\obj\Debug\BLLServices.pdb
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\BLLServices\bin\Debug\BLLServices.dll
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\BLLServices\bin\Debug\BLLServices.pdb
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\BLLServices\bin\Debug\BLLCommentService.dll
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\BLLServices\bin\Debug\BLLEntities.dll
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\BLLServices\bin\Debug\BLLTransform.dll
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\BLLServices\bin\Debug\DALEntities.dll
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\BLLServices\bin\Debug\DALFactory.dll
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\BLLServices\bin\Debug\DALInterface.dll
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\BLLServices\bin\Debug\EntityFramework.dll
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\BLLServices\bin\Debug\DALDatabase.dll
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\BLLServices\bin\Debug\BLLCommentService.pdb
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\BLLServices\bin\Debug\BLLEntities.pdb
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\BLLServices\bin\Debug\BLLTransform.pdb
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\BLLServices\bin\Debug\DALEntities.pdb
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\BLLServices\bin\Debug\DALFactory.pdb
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\BLLServices\bin\Debug\DALInterface.pdb
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\BLLServices\bin\Debug\EntityFramework.xml
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\BLLServices\bin\Debug\DALDatabase.pdb
+D:\Mikalai Sivokha\GitHub\Epam\ASP.NET MVC\PhotoGallery\BLLServices\bin\Debug\ru\EntityFramework.resources.dll
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\BLLServices\bin\Debug\BLLServices.dll
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\BLLServices\bin\Debug\BLLServices.pdb
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\BLLServices\bin\Debug\BLLCommentService.dll
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\BLLServices\bin\Debug\BLLEntities.dll
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\BLLServices\bin\Debug\BLLTransform.dll
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\BLLServices\bin\Debug\DALEntities.dll
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\BLLServices\bin\Debug\DALFactory.dll
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\BLLServices\bin\Debug\DALInterface.dll
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\BLLServices\bin\Debug\EntityFramework.dll
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\BLLServices\bin\Debug\DALDatabase.dll
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\BLLServices\bin\Debug\BLLCommentService.pdb
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\BLLServices\bin\Debug\BLLEntities.pdb
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\BLLServices\bin\Debug\BLLTransform.pdb
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\BLLServices\bin\Debug\DALEntities.pdb
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\BLLServices\bin\Debug\DALFactory.pdb
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\BLLServices\bin\Debug\DALInterface.pdb
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\BLLServices\bin\Debug\EntityFramework.xml
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\BLLServices\bin\Debug\DALDatabase.pdb
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\BLLServices\bin\Debug\ru\EntityFramework.resources.dll
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\BLLServices\obj\Debug\BLLServices.csprojResolveAssemblyReference.cache
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\BLLServices\obj\Debug\BLLServices.dll
+D:\GitHub\Epam\ASP.NET MVC\PhotoGallery\BLLServices\obj\Debug\BLLServices.pdb

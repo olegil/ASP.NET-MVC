@@ -1,0 +1,29 @@
+﻿@using UI.Helpers
+@model UI.Models.Image
+@{
+    Layout = null;
+}
+<div id="ImageBlock">
+    @if (ViewHelper.IsInRole(User.Identity.Name, "Administrator"))
+    {
+        <div style="text-align: right;">
+            <a class="button" onclick="createRemovePhotoForm(@Model.ImageId);">@Resources.Resources.RemovePhoto</a>
+            @*<a class="button" onclick="">Change tags</a>*@
+        </div>
+    }
+    <a onclick="ChangeImageIndex(false);" id="BtnPreviousImage">
+        <img src="~/Content/images/left-arrow.png" />
+    </a>
+    <a class="th radius image-show-size" href="#" onclick="ChangeImage(@Model.ImageId);">
+        <img src="@Model.ImagePicture" />
+    </a>
+    <a onclick="ChangeImageIndex(true);" id="BtnNextImage">
+        <img src="~/Content/images/right-arrow.png" />
+    </a>
+    <div id="tagBlock">
+        @foreach (var tag in Model.Tag)
+        {
+            <a>@tag.TagName </a>
+        }
+    </div>
+</div>

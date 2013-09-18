@@ -1,0 +1,13 @@
+﻿@model IEnumerable<string>
+
+@{
+    Layout = null;
+}
+
+@if (Model != null)
+{
+    foreach (var image in Model)
+    {       
+    <img src="@image" style="max-width: 620px; max-height: 350px;">
+    }
+}

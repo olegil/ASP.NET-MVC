@@ -155,6 +155,7 @@
     <Content Include="Scripts\addPhoto.js" />
     <Content Include="Scripts\addTag.js" />
     <Content Include="Scripts\admin.js" />
+    <Content Include="Scripts\changeTags.js" />
     <Content Include="Scripts\search.js" />
     <Content Include="Scripts\showForm.js" />
     <Compile Include="Security\AccountMembershipService.cs" />
@@ -232,6 +233,7 @@
     <Content Include="Views\Admin\ShowUsers.cshtml" />
     <Content Include="Views\Admin\ShowChangeUserRoleForm.cshtml" />
     <Content Include="Views\Admin\UsersCount.cshtml" />
+    <Content Include="Views\ContentWork\ShowChangeTagForm.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />

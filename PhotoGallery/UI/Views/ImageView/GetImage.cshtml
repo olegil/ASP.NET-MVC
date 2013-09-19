@@ -8,7 +8,7 @@
     {
         <div style="text-align: right;">
             <a class="button" onclick="createRemovePhotoForm(@Model.ImageId);">@Resources.Resources.RemovePhoto</a>
-            @*<a class="button" onclick="">Change tags</a>*@
+            <a class="button" onclick="createChangeTagForm(@Model.ImageId)">@Resources.Resources.ChangeTags</a>
         </div>
     }
     <a onclick="ChangeImageIndex(false);" id="BtnPreviousImage">
@@ -23,7 +23,7 @@
     <div id="tagBlock">
         @foreach (var tag in Model.Tag)
         {
-            <a>@tag.TagName </a>
+            <a>@tag.TagName</a>
         }
     </div>
 </div>

@@ -48,3 +48,13 @@ D:\GitHub\ASP.NET-MVC\PhotoGallery\Resources\obj\Debug\Resources.csproj.Generate
 D:\GitHub\ASP.NET-MVC\PhotoGallery\Resources\obj\Debug\ru\Resources.resources.dll
 D:\GitHub\ASP.NET-MVC\PhotoGallery\Resources\obj\Debug\Resources.dll
 D:\GitHub\ASP.NET-MVC\PhotoGallery\Resources\obj\Debug\Resources.pdb
+D:\Mikalai Sivokha\GitHub\ASP.NET-MVC\PhotoGallery\Resources\bin\Debug\Resources.dll
+D:\Mikalai Sivokha\GitHub\ASP.NET-MVC\PhotoGallery\Resources\bin\Debug\Resources.pdb
+D:\Mikalai Sivokha\GitHub\ASP.NET-MVC\PhotoGallery\Resources\bin\Debug\ru\Resources.resources.dll
+D:\Mikalai Sivokha\GitHub\ASP.NET-MVC\PhotoGallery\Resources\obj\Debug\Resources.csprojResolveAssemblyReference.cache
+D:\Mikalai Sivokha\GitHub\ASP.NET-MVC\PhotoGallery\Resources\obj\Debug\Resources.Resources.resources
+D:\Mikalai Sivokha\GitHub\ASP.NET-MVC\PhotoGallery\Resources\obj\Debug\Resources.Resources.ru.resources
+D:\Mikalai Sivokha\GitHub\ASP.NET-MVC\PhotoGallery\Resources\obj\Debug\Resources.csproj.GenerateResource.Cache
+D:\Mikalai Sivokha\GitHub\ASP.NET-MVC\PhotoGallery\Resources\obj\Debug\ru\Resources.resources.dll
+D:\Mikalai Sivokha\GitHub\ASP.NET-MVC\PhotoGallery\Resources\obj\Debug\Resources.dll
+D:\Mikalai Sivokha\GitHub\ASP.NET-MVC\PhotoGallery\Resources\obj\Debug\Resources.pdb

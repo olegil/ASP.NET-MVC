@@ -25,6 +25,11 @@ namespace UI.Controllers
             return View();
         }
 
+        public ViewResult ShowChangeTagForm(int ImageId)
+        {
+            return View(new Image(ImageBLLService.GetImage(ImageId)));
+        }
+
         public ViewResult ShowRemovePhotoForm(int ImageId)
         {
             ViewBag.ImageId = ImageId;

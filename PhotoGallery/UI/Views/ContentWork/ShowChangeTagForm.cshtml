@@ -1,0 +1,26 @@
+﻿@model UI.Models.Image
+@{
+    Layout = null;
+}
+<script src="~/Scripts/changeTags.js"></script>
+<p>
+    <a class="position-right" href="#" onclick="closeForm('#workForm', 'changeTag-form');">x</a>
+</p>
+<ul class="button-tag-group">
+    <li><a class="button" onclick="saveTags();">@Resources.Resources.Save</a></li>
+    <li>
+        <ul class="inline-list-none" id="addEnteredTag">
+            @foreach (var tag in Model.Tag)
+            {
+                <li><a class="add-tag" onclick="removeSelectedAddTag('@tag.TagName');">@tag.TagName</a></li>
+            }
+        </ul>
+    </li>
+</ul>
+@Html.TextBox("TagNames", "", new { style = "display: none", id = "addTagTagNamesTextBox" })
+<ul class="title-area ul-style-none" id="addTagList">
+    <li>
+        <input type="text" style="margin: 0px;" id="addTagTextBox" onblur="clearAddTagTextBox();"  placeholder="@Resources.Resources.EnterTagName" />
+    </li>
+    <li id="searchTags"></li>
+</ul>

@@ -270,4 +270,16 @@
   <data name="MyPhotosPage" xml:space="preserve">
     <value>My photos</value>
   </data>
+  <data name="ChangeTags" xml:space="preserve">
+    <value>Change tags</value>
+  </data>
+  <data name="EnterTagName" xml:space="preserve">
+    <value>Enter tag name</value>
+  </data>
+  <data name="Save" xml:space="preserve">
+    <value>Save</value>
+  </data>
+  <data name="ShowImage" xml:space="preserve">
+    <value>Show image</value>
+  </data>
 </root>

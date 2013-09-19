@@ -34,12 +34,12 @@
                 <li class="name">
                     <h1>@Html.ActionLink(Resources.Resources.HomePage, "Index", "Home")</h1>
                 </li>
-                @*@if (ViewHelper.IsInRole(User.Identity.Name, "User"))
+                @if (ViewHelper.IsInRole(User.Identity.Name, "User"))
                 {
                     <li class="name">
                         <h1>@Html.ActionLink(Resources.Resources.MyPhotosPage, "Index", "MyImages")</h1>
                     </li>
-                }*@
+                }
                 @if (ViewHelper.IsInRole(User.Identity.Name, "Admin"))
                 {
                     <li class="name">
@@ -95,12 +95,12 @@
                 <li class="name">
                     <h1>@Html.ActionLink(Resources.Resources.HomePage, "Index", "Home")</h1>
                 </li>
-                @*@if (ViewHelper.IsInRole(User.Identity.Name, "User"))
+                @if (ViewHelper.IsInRole(User.Identity.Name, "User"))
                 {
                     <li class="name">
                         <h1>@Html.ActionLink(Resources.Resources.MyPhotosPage, "Index", "MyImages")</h1>
                     </li>
-                }*@
+                }
                 @if (ViewHelper.IsInRole(User.Identity.Name, "Admin"))
                 {
                     <li class="name">

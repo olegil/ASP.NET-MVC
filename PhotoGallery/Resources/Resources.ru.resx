@@ -270,4 +270,16 @@
   <data name="MyPhotosPage" xml:space="preserve">
     <value>Мои фотографии</value>
   </data>
+  <data name="ChangeTags" xml:space="preserve">
+    <value>Изменить тэги</value>
+  </data>
+  <data name="EnterTagName" xml:space="preserve">
+    <value>Введите название тэга</value>
+  </data>
+  <data name="Save" xml:space="preserve">
+    <value>Сохранить</value>
+  </data>
+  <data name="ShowImage" xml:space="preserve">
+    <value>Показать изображение</value>
+  </data>
 </root>

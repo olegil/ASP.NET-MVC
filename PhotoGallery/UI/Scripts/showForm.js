@@ -57,6 +57,20 @@ function createAddTagForm() {
     });
 }
 
+function createChangeTagForm(id) {
+    $.ajax({
+        url: "/ContentWork/ShowChangeTagForm",
+        type: "GET",
+        data: { ImageId: id },
+        dataType: "html",
+        success: function (data) {
+            if (data != 0) {
+                showWorkForm(data, 'changeTag-form');
+            }
+        }
+    });
+}
+
 function createRemovePhotoForm(id) {
     $.ajax({
         url: "/ContentWork/ShowRemovePhotoForm",

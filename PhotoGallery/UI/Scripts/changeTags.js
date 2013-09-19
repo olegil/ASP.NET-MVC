@@ -16,7 +16,7 @@ $(function () {
     $('#addTagTextBox').on('keyup', function (e) {
         if (e.keyCode === 13) {
             var text = document.getElementById('addTagTextBox').value;
-            postSelectedAddTag(text);
+            enterAddTagButtonPressed(text);
             clearAddTagTextBox();
             return;
         }
@@ -47,6 +47,13 @@ function getAddTagSearchResults() {
 
 function clearAddTagTextBox() {
     $('#searchTags').empty();
+}
+
+function enterAddTagButtonPressed(text) {
+    var items = $("#searchTags a:contains(" + text + ")");
+    if (items.length == 1) {
+        postSelectedAddTag(items[0].innerText);
+    }
 }
 
 function postSelectedAddTag(name) {
@@ -88,9 +95,9 @@ function addTagsToTagNamesTextBox() {
 
 function submitTags() {
     $.ajax({
-        url: "/ContentWork/SaveTags",
+        url: "/ContentWork/ChangeTags",
         type: "POST",
         dataType: "json",
-        data: { TagNames: document.getElementById('addTagTagNamesTextBox').value }
+        data: { TagNames: document.getElementById('addTagTagNamesTextBox').value, ImageId: document.getElementById('ImageId').value }
     });
 }

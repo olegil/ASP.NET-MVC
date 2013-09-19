@@ -13,6 +13,24 @@ namespace BLLServices
 {
     public static class ImageBLLService
     {
+        public static bool ContainsImageTag(int ImageId, string TagName)
+        {
+            ImageIRepository ImageRepository = RepositoryFactory.GetImageRepository();
+            return ImageRepository.ContainsImageTag(ImageId, TagName);
+        }
+
+        public static void AddImageTag(int ImageId, int TagId)
+        {
+            ImageIRepository ImageRepository = RepositoryFactory.GetImageRepository();
+            ImageRepository.AddImageTag(ImageId, TagId);
+        }
+
+        public static void RemoveImageTag(int ImageId, int TagId)
+        {
+            ImageIRepository ImageRepository = RepositoryFactory.GetImageRepository();
+            ImageRepository.RemoveImageTag(ImageId, TagId);
+        }
+
         public static void SaveImage(ImageEntity image)
         {
             ImageIRepository ImageRepository = RepositoryFactory.GetImageRepository();
@@ -26,6 +44,12 @@ namespace BLLServices
             {
                 ImageRepository.AddImageTag(ImageId, tag.TagId);
             }
+        }
+
+        public static IEnumerable<string> GetImageTagNames(int ImageId)
+        {
+            ImageIRepository ImageRepository = RepositoryFactory.GetImageRepository();
+            return ImageRepository.GetImageTagNames(ImageId);
         }
 
         public static ImageEntity GetImage(int ImageId)

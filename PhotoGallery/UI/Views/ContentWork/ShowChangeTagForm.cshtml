@@ -2,6 +2,12 @@
 @{
     Layout = null;
 }
+<script type='text/javascript'>
+    $(function () {
+        document.getElementById('ImageId').value = @Model.ImageId;
+    });
+</script>
+<input type="hidden" value="0" id="ImageId" />
 <script src="~/Scripts/changeTags.js"></script>
 <p>
     <a class="position-right" href="#" onclick="closeForm('#workForm', 'changeTag-form');">x</a>

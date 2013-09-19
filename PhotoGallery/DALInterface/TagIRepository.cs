@@ -10,6 +10,7 @@ namespace DALInterface
     public interface TagIRepository
     {
         Tag GetTag(int TagId);
+        int GetTagId(string TagName);
         IEnumerable<Tag> GetTagsByImageId(int ImageId);
         IEnumerable<Tag> GetTagsContainsString(string SearchText);
         bool ContainsTag(string TagName);

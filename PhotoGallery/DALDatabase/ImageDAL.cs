@@ -28,6 +28,14 @@ namespace DALDatabase
             }
         }
 
+        public IEnumerable<string> GetImageTagNames(int ImageId)
+        {
+            using (var DB = new DatabaseEntities())
+            {
+                return DB.Image.First(image => image.ImageId == ImageId).Tag.Select(tag => tag.TagName).ToArray();
+            }
+        }
+
         public Image GetImageByCommentId(int CommentId)
         {
             using (var DB = new DatabaseEntities())
@@ -286,6 +294,30 @@ namespace DALDatabase
             {
                 DB.Image.First(image => image.ImageId == ImageId).Tag.Add(DB.Tag.First(tag => tag.TagId == TagId));
                 DB.SaveChanges();
+            }
+        }
+
+        public void RemoveImageTag(int ImageId, int TagId)
+        {
+            using (var DB = new DatabaseEntities())
+            {
+                DB.Image.First(image => image.ImageId == ImageId).Tag.Remove(DB.Tag.First(tag => tag.TagId == TagId));
+                DB.SaveChanges();
+            }
+        }
+
+        public bool ContainsImageTag(int ImageId, string TagName)
+        {
+            using (var DB = new DatabaseEntities())
+            {
+                foreach (var tag in DB.Image.First(image => image.ImageId == ImageId).Tag)
+                {
+                    if (tag.TagName == TagName)
+                    {
+                        return true;
+                    }
+                }
+                return false;
             }
         }
     }

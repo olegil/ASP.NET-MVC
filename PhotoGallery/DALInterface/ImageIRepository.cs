@@ -13,6 +13,7 @@ namespace DALInterface
         Image GetImageByCommentId(int CommentId);
         Image[] GetAllImages();
         int SaveImage(Image image);
+        IEnumerable<string> GetImageTagNames(int ImageId);
         int GetAllImagesCount();
         IEnumerable<Image> GetImages(int StartIndex, int Count);
         IEnumerable<Image> GetImagesByCommentId(int CommentId);
@@ -25,5 +26,7 @@ namespace DALInterface
         int GetImageIndexByImageId(int ImageId);
         void RemoveImage(int ImageId);
         void AddImageTag(int ImageId, int TagId);
+        void RemoveImageTag(int ImageId, int TagId);
+        bool ContainsImageTag(int ImageId, string TagName);
     }
 }

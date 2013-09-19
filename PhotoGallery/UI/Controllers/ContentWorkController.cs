@@ -79,6 +79,29 @@ namespace UI.Controllers
             return Json(true);
         }
 
+        public JsonResult ChangeTags(string TagNames, int ImageId)
+        {
+            var Tags = TagNames.Split('_');
+            foreach (var tag in Tags)
+            {
+                if (tag.Length != 0)
+                {
+                    if (!ImageBLLService.ContainsImageTag(ImageId, tag))
+                    {
+                        ImageBLLService.AddImageTag(ImageId, TagBLLService.GetTagId(tag));
+                    }
+                }
+            }
+            foreach (var tag in ImageBLLService.GetImageTagNames(ImageId))
+            {
+                if (!Tags.Contains(tag))
+                {
+                    ImageBLLService.RemoveImageTag(ImageId, TagBLLService.GetTagId(tag));
+                }
+            }
+            return Json(true);
+        }
+
         private IEnumerable<byte[]> HttpPostedFileBaseToByte(HttpPostedFileBase[] files)
         {
             HashSet<byte[]> Images = new HashSet<byte[]>();

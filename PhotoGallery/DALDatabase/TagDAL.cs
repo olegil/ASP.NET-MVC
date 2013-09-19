@@ -18,6 +18,14 @@ namespace DALDatabase
             }
         }
 
+        public int GetTagId(string TagName)
+        {
+            using (var DB = new DatabaseEntities())
+            {
+                return DB.Tag.First(tag => tag.TagName == TagName).TagId;
+            }
+        }
+
         public IEnumerable<Tag> GetTagsByImageId(int ImageId)
         {
             using (var DB = new DatabaseEntities())

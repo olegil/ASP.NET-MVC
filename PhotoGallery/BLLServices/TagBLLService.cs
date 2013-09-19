@@ -25,6 +25,12 @@ namespace BLLServices
             return TagRepository.ContainsTag(TagName);
         }
 
+        public static int GetTagId(string TagName)
+        {
+            TagIRepository TagRepository = RepositoryFactory.GetTagRepository();
+            return TagRepository.GetTagId(TagName);
+        }
+
         public static IEnumerable<TagEntity> GetTagsByImageId(int ImageId)
         {
             TagIRepository TagRepository = RepositoryFactory.GetTagRepository();

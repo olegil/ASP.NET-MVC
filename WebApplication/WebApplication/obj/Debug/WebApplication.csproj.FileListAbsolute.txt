@@ -1,5 +1,0 @@
-d:\GitHub\ASP.NET-MVC\WebApplication\WebApplication\bin\WebApplication.dll
-d:\GitHub\ASP.NET-MVC\WebApplication\WebApplication\bin\WebApplication.pdb
-d:\GitHub\ASP.NET-MVC\WebApplication\WebApplication\obj\Debug\WebApplication.csprojResolveAssemblyReference.cache
-d:\GitHub\ASP.NET-MVC\WebApplication\WebApplication\obj\Debug\WebApplication.dll
-d:\GitHub\ASP.NET-MVC\WebApplication\WebApplication\obj\Debug\WebApplication.pdb
